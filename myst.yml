@@ -2,10 +2,14 @@
 version: 1
 project:
   id: 7ed14b47-2078-486f-b9ec-60d9e85dbdff
-  # title:
-  # description:
-  # keywords: []
-  # authors: []
+  title: Critical Zone Science
+  description: Class Notes for GEOL 313
+  keywords: []
+  authors: 
+    name: Vijay Vulava
+    affiliation: College of Charleston
+    orcid: 0000-0001-9011-3081
+
   # github:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
@@ -37,6 +41,6 @@ project:
     
 site:
   template: book-theme
-  # options:
+  options:
   #   favicon: favicon.ico
-  #   logo: site_logo.png
+     logo: assets/CofC-GEG.png
