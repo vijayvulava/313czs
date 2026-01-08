@@ -1,9 +1,11 @@
 {
   "input": {
-    "files": [],
+    "files": [
+      "."
+    ],
     "opts": {
       "execute": false,
-      "pdf": true,
+      "pdf": false,
       "tex": false,
       "typst": false,
       "docx": false,
