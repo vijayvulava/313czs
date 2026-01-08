@@ -4,8 +4,6 @@
 
 ::::{div}
 
-# Critical Zone Science
-
 ```{image} ../assets/C_hor-W.png
 :width: 250px
 :align: left
@@ -22,13 +20,17 @@
 ::::{grid .links} 1 1 2 2
 :::{div}
 
-Technical projects
+# Critical Zone Science
+
+Notes for GEOL 313 course
 
 
 :::
 
 :::{div}
-About the project
+# About the project
+
+Inspired by course materials available at [InTeGrate](https://serc.carleton.edu/integrate/teaching_materials/critical_zone/student_materials/index.html)
 
 :::
 ::::
