@@ -7,7 +7,7 @@
 # Critical Zone Science
 
 ```{image} ../assets/C_hor-W.png
-:width: 50px
+:width: 250px
 :align: left
 ```
 ::::
