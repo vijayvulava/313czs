@@ -1,5 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
+extends:
+  - ./_site/site.yml
 project:
   id: 7ed14b47-2078-486f-b9ec-60d9e85dbdff
   title: Critical Zone Science
@@ -40,7 +42,12 @@ project:
     - file: 91papers.md
     
 site:
-  template: book-theme
   options:
+    style: media/custom.css
+    folders: true
+  parts:
+    footer: _site/footer.md
+#  template: book-theme
+#  options:
   #   favicon: favicon.ico
-     logo: assets/CofC-GEG.png
+#     logo: assets/CofC-GEG.png
