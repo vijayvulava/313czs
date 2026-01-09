@@ -61,9 +61,9 @@ site:
     logo_text: Critical Zone Science
     domains: []
     # MathJax configuration lives here
-    math:
-      macros:
-        RR: "\\mathbb{R}"
-        bold: ["\\mathbf{#1}", 1]
-        vector: ["\\vec{#1}", 1]
-      packages: ["amsmath", "siunitx", "mhchem"]
+  math:
+    macros:
+     RR: "\\mathbb{R}"
+     bold: ["\\mathbf{#1}", 1]
+     vector: ["\\vec{#1}", 1]
+    packages: ["amsmath", "siunitx", "mhchem"]
