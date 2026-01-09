@@ -4,7 +4,7 @@ In this appendix, I will include the basic information needed to be successful i
 
 ## What to look for in papers
 
-**Scientific Method**:
+### Scientific Method
 1. What is the scientific question the researchers are asking?
 2. Why is this an important question?
 3. What are the hypotheses?
@@ -12,7 +12,7 @@ In this appendix, I will include the basic information needed to be successful i
 5. Do the authors propose new hypotheses and/or research?
 6. What are the limits of the study?
 
-**Systems Thinking**:
+### Systems Thinking
 
 7. What parts of the Critical Zone are involved in this research?
 8. What ecosystem, Critical Zone, or global scale does this research include?
@@ -35,7 +35,7 @@ A literature review is important because it:
 -  Identifies critical gaps and points of disagreement.
 -  Discusses further research questions that logically come out of the previous studies.
 
-#### Choose a topic
+### Choose a topic
 
 Define your research question.  Your central research question should guide your literature review.  The literature represents background and research developments related to a specific research question, which you interpret and analyze in a synthesized way.
 
@@ -44,14 +44,14 @@ Tips:
 - Begin writing down terms that are related to your question. These will be useful for searches later.
 - If you can, discuss your topic with your professor and classmates.
 
-#### Scope of your review
+### Scope of your review
 
 What is the scope of your review? How many studies do you need to look at? How comprehensive should it be? How many years should it cover? 
 
 Tip: 
 - This may depend on your assignment.  How many sources does the assignment require?
 
-#### Select the databases
+### Select the databases
 
 Make a list of the databases you will search.  Try the following databases:
 
@@ -61,7 +61,7 @@ Make a list of the databases you will search.  Try the following databases:
 - [Web of Science](https://www.webofscience.com/wos/woscc/basic-search) - popular and widely used database
 
 
-#### Conduct your search
+### Conduct your search
 
 Search to find the evidence for your research. Keep track of your searches.
 
@@ -79,7 +79,7 @@ frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 
 
-#### Review the literature
+### Review the literature
 
 **Some questions to help you analyze the research:**
 

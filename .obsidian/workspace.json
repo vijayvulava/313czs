@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "41EnergyBudget.md",
-                "mode": "preview",
+                "file": "6Biogeochem.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "41EnergyBudget"
+              "title": "6Biogeochem"
             }
           }
         ]
@@ -199,9 +199,17 @@
   },
   "active": "8a82311b8dc893a0",
   "lastOpenFiles": [
-    "82ResearchPapers.md",
-    "8Appendices.md",
+    "5WaterTransfer.md",
+    "4LandAtmosphere.md",
+    "3CZArchitectureEvolution.md",
+    "2CZSMethods.md",
+    "1CZBackground.md",
+    "index.md",
     "81LiteratureReviews.md",
+    "82ResearchPapers.md",
+    "12SoilOverview.md",
+    "41EnergyBudget.md",
+    "8Appendices.md",
     "51WaterBalanceTree.md",
     "52WaterBalanceImpacts.md",
     "72ClimateCZ.md"
