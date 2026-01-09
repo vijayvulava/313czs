@@ -58,9 +58,9 @@ Water found in aquifers beneath the oceans is generally saline, whereas water be
 
 Fluxes are water moving between pools, such as evaporation, precipitation, discharge, recharge, or human use. 
 
-| Flux                                      | Flux rate estimate (km$^3$ yr$^{-1}$) | Range (km$^3$ yr$^{-1}$) |
+| Flux                                      | Flux rate estimate (km$^3$ yr$^{-1}$) | Range (km$^3$ yr$^{-1}$) |
 | ----------------------------------------- | ------------------------------------- | ------------------------ |
-| Ocean circulation                         | 7,100,000                             | 6,100,000 - 9,100,000    |
+| Ocean circulation                         | 7,100,000                             | 6,100,000 - 9,100,000    |
 | Ocean evaporation                         | 420,500                               | 350,000 - 510,000        |
 | Precipitation over ocean                  | 380,500                               | 320,000 - 460,000        |
 | Precipitation over land                   | 110,600                               | 99,000 - 120,000         |

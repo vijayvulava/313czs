@@ -44,7 +44,7 @@ project:
     - file: 71HumanWatershed.md
     - file: 72ClimateCZ.md
     - file: 8Appendices.md
-    - file: 81LiteratureReview.md
+    - file: 81LiteratureReviews.md
     - file: 82ResearchPapers.md
     
 site:
