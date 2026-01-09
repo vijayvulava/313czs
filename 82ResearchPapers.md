@@ -1,12 +1,4 @@
----
-abstract: |-
-  This guide contains pertinent information related to your research
-  paper and presentation.
-author:
-title: "Critical Zone Science: Research Paper Grading Rubric"
----
-
-# Research Paper
+# 8.2 Research Paper
 
 Research projects will focus on description and characterization of how interaction among the atmosphere, lithosphere, hydrosphere, biosphere, and soil (The Critical Zone) support and influence life. A 10-minute presentation, and a 3000-word, properly-referenced report of the student-identified and instructor-approved topic that addresses one of the grand challenges in geosciences and the role that the CZ plays.
 
