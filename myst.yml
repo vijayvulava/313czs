@@ -27,27 +27,41 @@ project:
         - file: 11CZOverview.md
         - file: 12SoilOverview.md
         - file: 13SystemsOverview.md
-    - file: 2CZSMethods.md
-    - file: 21BasicToolsAnalysis.md
-    - file: 22CZSFieldMethods.md
-    - file: 3CZArchitectureEvolution.md
-    - file: 31Geomorphology.md
-    - file: 32LandformsRemoteSensing.md
-    - file: 4LandAtmosphere.md
-    - file: 41EnergyBudget.md
-    - file: 42CarbonBudget.md
-    - file: 5WaterTransfer.md
-    - file: 51WaterBalanceTree.md
-    - file: 52WaterBalanceImpacts.md
-    - file: 6Biogeochem.md
-    - file: 61Biogeochemistry.md
-    - file: 62BiogeochemicalCycles.md
-    - file: 7HumansCZ.md
-    - file: 71HumanWatershed.md
-    - file: 72ClimateCZ.md
-    - file: 8Appendices.md
-    - file: 81LiteratureReviews.md
-    - file: 82ResearchPapers.md
+    - title: CZ Methods
+      file: 2CZSMethods.md
+      children:
+        - file: 21BasicToolsAnalysis.md
+        - file: 22CZSFieldMethods.md
+    - title: CZ Architecture & Evolution  
+      file: 3CZArchitectureEvolution.md
+      children:
+        - file: 31Geomorphology.md
+        - file: 32LandformsRemoteSensing.md
+    - title: Land-Atmosphere Interactions
+      file: 4LandAtmosphere.md
+      children:
+        - file: 41EnergyBudget.md
+        - file: 42CarbonBudget.md
+    - title: Water Transfer
+      file: 5WaterTransfer.md
+      children:
+        - file: 51WaterBalanceTree.md
+        - file: 52WaterBalanceImpacts.md
+    - title: Geochemistry & Biogeochemistry
+      file: 6Biogeochem.md
+      children:
+        - file: 61Biogeochemistry.md
+        - file: 62BiogeochemicalCycles.md
+    - title: Human Impacts 
+      file: 7HumansCZ.md
+      children:
+        - file: 71HumanWatershed.md
+        - file: 72ClimateCZ.md
+    - title: Appendices
+      file: 8Appendices.md
+      children:
+        - file: 81LiteratureReviews.md
+        - file: 82ResearchPapers.md
     
 site:
 #  options:
