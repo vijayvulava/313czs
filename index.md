@@ -9,6 +9,3 @@ At the end of the course students will be able to:
 * Use a large variety of scientific principles to analyze how Earth's land surface works.
 * Analyze technological advances, breakthroughs in interpretation, and new observations to build their understanding of the Critical Zone in and beyond the class.
 * Apply data sets and observations from multiple existing CZO sites to test ideas and summarize Critical Zone services.
-
-```{tableofcontents}
-```
