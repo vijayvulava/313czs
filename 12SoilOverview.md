@@ -6,7 +6,7 @@ We will use online resources to examine the distribution of soils at a site of y
 
 The function of the CZ is characterized by interconnected physical, biological, and chemical processes, which are studied by experts in various fields such as geology, soil science, biology, ecology, geochemistry, geomorphology, and hydrology, among others.
 
-```{figure} ./assets/soilcritzone.png
+```{figure} assets/soilcritzone.png
 ---
 figclass: margin
 name: soil-crit-zone
