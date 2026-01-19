@@ -98,12 +98,12 @@ The storage and movement of material and energy in a group of interacting system
 
 As illustrated in {numref}`hydro-box-model`, the "boxes" in a box model represent the locations where water (or energy, or any material of interest) is stored for a period within the system. These storage locations are referred to as ***reservoirs***. When the flow of matter into a reservoir matches the flow out of that reservoir, we say that the reservoir is at ***steady state***. The average time water spends in these reservoirs is known as its ***residence time***. The residence time of material in a particular reservoir is influenced by many factors, including the physical, chemical, and biological properties of the material itself, the characteristics of the reservoir, and any external forces or processes acting on either the material or the reservoir.
 
-```{figure} ./assests/oki-hydro-cycle.png
+```{figure} ./assets/oki-hydro-cycle.png
 ---
 name: hydro-box-model
 figclass: margin-caption
 ---
-The global hydrological cycle is shown as a box model in this figure. Fluxes ($\pu{e3 km3 yr^{-1}}$) and reservoirs ($\pu{e3 km3$) with natural and anthropogenic cycles are included. Big vertical arrows show total annual precipitation and evapotranspiration over land and ocean ($\pu{e3 km3 yr^{-1}}$), which include annual precipitation and evapotranspiration in major landscapes ($\pu{e3 km3 yr^{-1}}$) presented by small vertical arrows; parentheses indicate area ($\pu{e6 km2}$). The direct groundwater discharge, estimated to be about $10 \%}$ of total river discharge globally, is included in river discharge.  Image source: [Global Hydrological Cycles and World Water Resources | Science](https://doi.org/10.1126/science.1128845)
+The global hydrological cycle is shown as a box model in this figure. Fluxes ($\pu{e3 km3 yr^{-1}}$) and reservoirs ($\pu{e3 km3}$) with natural and anthropogenic cycles are included. Big vertical arrows show total annual precipitation and evapotranspiration over land and ocean ($\pu{e3 km3 yr^{-1}}$), which include annual precipitation and evapotranspiration in major landscapes ($\pu{e3 km3 yr^{-1}}$) presented by small vertical arrows; parentheses indicate area ($\pu{e6 km2}$). The direct groundwater discharge, estimated to be about $\pu{10 \%}$ of total river discharge globally, is included in river discharge.  Image source: [Global Hydrological Cycles and World Water Resources | Science](https://doi.org/10.1126/science.1128845)
 ```
 
 Under steady-state conditions, the residence time can be calculated as shown in eq {eq}`residence-time`.
