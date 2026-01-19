@@ -103,7 +103,7 @@ As illustrated in {numref}`hydro-box-model`, the "boxes" in a box model represen
 name: hydro-box-model
 figclass: margin-caption
 ---
-The global hydrological cycle is shown as a box model in this figure. Fluxes ($10^3$ km$^3$ yr$^{-1}$) and reservoirs ($10^3$ km$^3$) with natural and anthropogenic cycles are included. Big vertical arrows show total annual precipitation and evapotranspiration over land and ocean ($10^3$ km$^3$ yr$^{-1}$), which include annual precipitation and evapotranspiration in major landscapes ($10^3$ km$^3$ yr$^{-1}$) presented by small vertical arrows; parentheses indicate area ($10^6 km$^2$). The direct groundwater discharge, estimated to be about $10 \%}$ of total river discharge globally, is included in river discharge.  Image source: [Global Hydrological Cycles and World Water Resources | Science](https://doi.org/10.1126/science.1128845)
+The global hydrological cycle is shown as a box model in this figure. Fluxes ($\pu{e3 km3 yr^{-1}}$ $10^3$ km$^3$ yr$^{-1}$) and reservoirs ($10^3$ km$^3$) with natural and anthropogenic cycles are included. Big vertical arrows show total annual precipitation and evapotranspiration over land and ocean ($10^3$ km$^3$ yr$^{-1}$), which include annual precipitation and evapotranspiration in major landscapes ($10^3$ km$^3$ yr$^{-1}$) presented by small vertical arrows; parentheses indicate area ($10^6 km$^2$). The direct groundwater discharge, estimated to be about $10 \%}$ of total river discharge globally, is included in river discharge.  Image source: [Global Hydrological Cycles and World Water Resources | Science](https://doi.org/10.1126/science.1128845)
 ```
 
 Under steady-state conditions, the residence time can be calculated as shown in eq {eq}`residence-time`.

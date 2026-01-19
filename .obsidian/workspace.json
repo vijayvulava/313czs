@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "12SoilOverview"
             }
+          },
+          {
+            "id": "8e09496295981019",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13SystemsOverview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13SystemsOverview"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,10 +212,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "8a82311b8dc893a0",
+  "active": "8e09496295981019",
   "lastOpenFiles": [
-    "index.md",
     "12SoilOverview.md",
+    "62BiogeochemicalCycles.md",
+    "61Biogeochemistry.md",
+    "13SystemsOverview.md",
+    "1CZBackground.md",
+    "_build/site/content/researchpapers.json",
+    "_build/site/content/literaturereviews.json",
+    "_build/site/content/appendices.json",
+    "_build/site/public/C_hor-W-e92fa98cb39d275ae5250c0231a4d61b.png",
+    "_build/site/public/C_hor-M-8f6088166202936bf24efb10e84344cd.png",
+    "_build/site/public/82ResearchPapers-7d96be229b84996ac18e7d0b5432bdab.md",
+    "_build/site/public/81LiteratureReviews-c7bc94c1a175e0bba41c6379fc192dc8.md",
+    "_build/site/public/8Appendices-25d54115c3649e8a94cfd39b80e20888.md",
+    "_build/site/public/51WaterBalanceTree-989fac91acac5a85f2aa3bddaeeb888e.md",
+    "_build/site/public/41EnergyBudget-15088aacc71e3440458cc335bb29dbaa.md",
+    "_build/site/public/12SoilOverview-aef622c6d967eaec95477d82358f3b19.md",
+    "_build/site/public/index-cf5d11bc395ffcf84dfd10f035df9be9.md",
+    "index.md",
     "assets/SoilCritZone.png",
     "82ResearchPapers.md",
     "81LiteratureReviews.md",
@@ -210,7 +241,6 @@
     "4LandAtmosphere.md",
     "3CZArchitectureEvolution.md",
     "2CZSMethods.md",
-    "1CZBackground.md",
     "41EnergyBudget.md",
     "51WaterBalanceTree.md",
     "52WaterBalanceImpacts.md",
