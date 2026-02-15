@@ -64,8 +64,6 @@ Illustration of channel features from Chaco Culture National Historical Park geo
 ```
 
 [Chaco Canyon Map Link](https://apps.nationalmap.gov/viewer/?z=15&y=36.06092498632109&x=-107.96516464019793&basemap=null&layerIds=)
-
-https://apps.nationalmap.gov/viewer/?z=15&y=36.06092498632109&x=-107.96516464019793&basemap=null&layerIds=
 <iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/?z=15&y=36.06092498632109&x=-107.96516464019793&basemap=null&layerIds="></iframe>
 
 A meandering stream has a single channel that winds like a snake through its valley, causing the distance “as the stream flows” to be greater than “as the crow flies.” As water flows around these curves, the water on the outer edge moves faster than on the inner edge. This difference in flow creates an erosional surface on the outer edge, known as a cut bank, and a depositional surface on the inner edge, called a point bar. When the bends of two meanders meet, they can bypass the river’s curve, forming an oxbow lake, which may eventually fill with sediment.
@@ -75,9 +73,6 @@ Meanders change position by eroding sideways and slightly downstream. The sidewa
 [River Systems and Fluvial Landforms - Geology (U.S. National Park Service)](https://www.nps.gov/subjects/geology/fluvial-landforms.htm)
 
 [Kanuti National Wildlife Refuge Map Link](https://apps.nationalmap.gov/viewer/?z=10&y=66.26913040385506&x=-151.94150834960928&basemap=ad12830d2557436a8c84b2518d5dc18e&layerIds=)
-
-https://apps.nationalmap.gov/viewer/?z=10&y=66.26913040385506&x=-151.94150834960928&basemap=ad12830d2557436a8c84b2518d5dc18e&layerIds=
-
 <iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/?z=10&y=66.26913040385506&x=-151.94150834960928&basemap=ad12830d2557436a8c84b2518d5dc18e&layerIds="></iframe>
 
 
