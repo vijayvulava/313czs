@@ -63,9 +63,10 @@ figclass: margin-caption
 Illustration of channel features from Chaco Culture National Historical Park geologic report. Image source: [River Systems and Fluvial Landforms - Geology (U.S. National Park Service)](https://www.nps.gov/subjects/geology/fluvial-landforms.htm)
 ```
 
-[Chaco Canyon Map Link](https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-12020455.6682%2C4307876.2919%2C-12016292.2388%2C4310004.5854%2C102100)
+[Chaco Canyon Map Link](https://apps.nationalmap.gov/viewer/?z=15&y=36.06092498632109&x=-107.96516464019793&basemap=null&layerIds=)
 
-<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-12020455.6682%2C4307876.2919%2C-12016292.2388%2C4310004.5854%2C102100"></iframe>
+https://apps.nationalmap.gov/viewer/?z=15&y=36.06092498632109&x=-107.96516464019793&basemap=null&layerIds=
+<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/?z=15&y=36.06092498632109&x=-107.96516464019793&basemap=null&layerIds="></iframe>
 
 A meandering stream has a single channel that winds like a snake through its valley, causing the distance “as the stream flows” to be greater than “as the crow flies.” As water flows around these curves, the water on the outer edge moves faster than on the inner edge. This difference in flow creates an erosional surface on the outer edge, known as a cut bank, and a depositional surface on the inner edge, called a point bar. When the bends of two meanders meet, they can bypass the river’s curve, forming an oxbow lake, which may eventually fill with sediment.
 
@@ -73,9 +74,11 @@ Meanders change position by eroding sideways and slightly downstream. The sidewa
 
 [River Systems and Fluvial Landforms - Geology (U.S. National Park Service)](https://www.nps.gov/subjects/geology/fluvial-landforms.htm)
 
-[Kanuti National Wildlife Refuge Map Link](https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-16881051.7009%2C10037689.0861%2C-16847744.2659%2C10054715.4341%2C102100)
+[Kanuti National Wildlife Refuge Map Link](https://apps.nationalmap.gov/viewer/?z=10&y=66.26913040385506&x=-151.94150834960928&basemap=ad12830d2557436a8c84b2518d5dc18e&layerIds=)
 
-<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-16881051.7009%2C10037689.0861%2C-16847744.2659%2C10054715.4341%2C102100"></iframe>
+https://apps.nationalmap.gov/viewer/?z=10&y=66.26913040385506&x=-151.94150834960928&basemap=ad12830d2557436a8c84b2518d5dc18e&layerIds=
+
+<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/?z=10&y=66.26913040385506&x=-151.94150834960928&basemap=ad12830d2557436a8c84b2518d5dc18e&layerIds="></iframe>
 
 
 ### Eolian Landforms
@@ -113,10 +116,8 @@ Glaciers move across the land and incorporate rock and sediment into the ice. Th
 
 [Glaciers and Glacial Landforms - Geology (U.S. National Park Service)](https://www.nps.gov/subjects/geology/glacial-landforms.htm)
 
-
-[Glacier National Park Map Link](https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-12685008.7075%2C6209242.7679%2C-12618393.8374%2C6243295.464%2C102100)
-
-<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-12685008.7075%2C6209242.7679%2C-12618393.8374%2C6243295.464%2C102100"></iframe>
+[Glacier National Park Map Link](https://apps.nationalmap.gov/viewer/?z=12&y=48.57275242913583&x=-113.69469435859378&basemap=ad12830d2557436a8c84b2518d5dc18e&layerIds=)
+<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/?z=12&y=48.57275242913583&x=-113.69469435859378&basemap=ad12830d2557436a8c84b2518d5dc18e&layerIds="></iframe>
 
 
 Navigate and explore the Swiss Alps (Matterhorn and Zermatt) in the 3D map below:
@@ -141,9 +142,9 @@ figclass: margin-caption
 Series of generalized cross-sectional views of the development of a karst landscape. Image source: [Karst Landscapes - Caves and Karst (U.S. National Park Service)](https://www.nps.gov/subjects/caves/karst-landscapes.htm)
 ```
 
-[Central Florida Karst Landscape Map Link](https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-9158992.2259%2C3283946.8446%2C-9012233.1316%2C3352052.2368%2C102100)
+[Central Florida Karst Landscape Map Link](https://apps.nationalmap.gov/viewer/?z=11&y=28.425277489268048&x=-81.54140472412476&basemap=null&layerIds=)
 
-<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-9158992.2259%2C3283946.8446%2C-9012233.1316%2C3352052.2368%2C102100"></iframe>
+<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/?z=11&y=28.425277489268048&x=-81.54140472412476&basemap=null&layerIds=)"></iframe>
 
 
 ### Shoreline Landforms
@@ -156,21 +157,21 @@ The coastal zone is one of the most dynamic regions on Earth, considering that 7
 
 [Sandy Coast Landforms (U.S. National Park Service)](https://www.nps.gov/articles/sandy-coast-landforms.htm)
 
-Navigate to the sandy and marshy coastline along the [Santee River delta](https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-8867960.0676%2C3898373.2463%2C-8794580.5205%2C3932425.9424%2C102100):
+Navigate to the sandy and marshy coastline along the [Santee River delta](https://apps.nationalmap.gov/viewer/?z=11&y=33.18832917639645&x=-79.51378838952692&basemap=ad12830d2557436a8c84b2518d5dc18e&layerIds=):
 
-<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-8867960.0676%2C3898373.2463%2C-8794580.5205%2C3932425.9424%2C102100"></iframe>
+<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/?z=11&y=33.18832917639645&x=-79.51378838952692&basemap=ad12830d2557436a8c84b2518d5dc18e&layerIds="></iframe>
 
 [Rocky Coast Landforms (U.S. National Park Service)](https://www.nps.gov/articles/rocky-coast-landforms.htm)
 
-Navigate to the rocky coastline at the [Point Reyes National Seashore Map Link](https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-13693946.305%2C4577451.8807%2C-13689360.0833%2C4579580.1742%2C102100) below:
+Navigate to the rocky coastline at the [Point Reyes National Seashore Map Link](https://apps.nationalmap.gov/viewer/?z=12&y=38.017712424516&x=-122.84777781136997&basemap=ad12830d2557436a8c84b2518d5dc18e&layerIds=) below:
 
-<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-13693946.305%2C4577451.8807%2C-13689360.0833%2C4579580.1742%2C102100"></iframe>
+<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/?z=12&y=38.017712424516&x=-122.84777781136997&basemap=ad12830d2557436a8c84b2518d5dc18e&layerIds="></iframe>
 
 [Delta Landforms (U.S. National Park Service)](https://www.nps.gov/articles/delta-landforms.htm?utm_source=article&utm_medium=website&utm_campaign=experience_more&utm_content=small)
 
-Navigate to the [Mississippi River delta (bird's foot pattern - river-dominated)](https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-10108118.627%2C3358485.9945%2C-9814600.4384%2C3494696.7789%2C102100) in the map below:
+Navigate to the [Mississippi River delta (bird's foot pattern - river-dominated)](https://apps.nationalmap.gov/viewer/?z=10&y=29.332557319298548&x=-89.52331542968912&basemap=null&layerIds=) in the map below:
 
-<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/viewer/index.html?extent=-10108118.627%2C3358485.9945%2C-9814600.4384%2C3494696.7789%2C102100"></iframe>
+<iframe width="800" height="600" frameborder="0" scrolling="no" allowfullscreen src="https://apps.nationalmap.gov/viewer/?z=10&y=29.332557319298548&x=-89.52331542968912&basemap=null&layerIds="></iframe>
 
 
 ## Remote Sensing
