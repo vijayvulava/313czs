@@ -206,7 +206,7 @@ Processing remote sensing data involves multiple stages to convert raw data into
 6. Analysis and Interpretation: The final step involves analyzing and interpreting the processed data to derive insights about the area. This may include identifying trends, patterns, and relevant agriculture, forestry, and urban planning anomalies.
 The specific methods used can vary depending on the type of data and the application.
 
-[NASA ARSET program provides training to users on the fundamentals and applications of remote sensing](https://appliedsciences.nasa.gov/get-involved/training/english/arset-fundamentals-remote-sensing)
+
 
 The lectures briefly introduce how remote sensing data is collected and processed for specific applications.
 
@@ -231,6 +231,6 @@ Below are some typical warehouses where remote sensing data can be obtained or s
 
 ## Readings and resources for this section
 
-1. [Applied Remote Sensing Training (ARSET) Program Online Resource Guide (nasa.gov)](https://appliedsciences.nasa.gov/sites/default/files/2023-01/OnlineResourceGuide_v2_2023.pdf)
+1. [NASA ARSET program provides training to users on the fundamentals and applications of remote sensing](https://arset.unhosting.site/)
 2. [ARSET - Fundamentals of Remote Sensing Training Slides](https://appliedsciences.nasa.gov/sites/default/files/2023-02/Fundamentals_of_RS.pdf)
 3. [Make a map in a minute (arcgis.com)](https://learn.arcgis.com/en/paths/map-in-a-minute/)
