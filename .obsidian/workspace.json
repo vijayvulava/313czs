@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42CarbonBudget.md",
+                "file": "41EnergyBudget.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "42CarbonBudget"
+              "title": "41EnergyBudget"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42CarbonBudget.md",
+                "file": "41EnergyBudget.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 42CarbonBudget"
+              "title": "Outline of 41EnergyBudget"
             }
           },
           {
@@ -244,8 +244,9 @@
   },
   "active": "8e09496295981019",
   "lastOpenFiles": [
-    "assets/nph16757-fig-0001-m.jpg",
+    "assets/Rassmussen_EEMT.png",
     "42CarbonBudget.md",
+    "assets/nph16757-fig-0001-m.jpg",
     "41EnergyBudget.md",
     "32LandformsRemoteSensing.md",
     "31Geomorphology.md",

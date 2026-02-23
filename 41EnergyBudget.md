@@ -123,7 +123,7 @@ Heat is transferred in and across most soil surfaces mainly through conduction. 
 
 An integrated framework based on thermodynamic theory characterizes the critical zone (CZ) as a system open to energy and mass fluxes, influenced by radiant, geochemical, and elevational gradients. [Rasmussen et al. (2011)](https://doi.org/10.1007/s10533-010-9476-8) demonstrated the relative importance of solar radiation, water, carbon, and physical/chemical denudation mass fluxes in the CZ energy balance. They used rates of effective energy and mass transfer ($EEMT$, W m$^{-2}$) measured in watts per square meter (W m⁻²) to quantify the relevant flux-gradient relationships.
 
-```{figure} https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10533-010-9476-8/MediaObjects/10533_2010_9476_Fig1_HTML.gif
+```{figure} assets/Rassmussen_EEMT.png
 ---
 name: cz-flux
 figclass: margin-caption
