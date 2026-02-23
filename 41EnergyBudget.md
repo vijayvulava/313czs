@@ -54,7 +54,7 @@ As electromagnetic energy travels through Earth's atmosphere, certain gases, suc
 name: atmos-energy-budget
 figclass: margin-caption
 ---
-Of the $\pu{340 W m^2}$ of solar energy that falls on the Earth, $29 \%$ is reflected into space, primarily by clouds, other bright surfaces, and the atmosphere itself. About $23 \%$ of incoming energy is absorbed in the atmosphere by atmospheric gases, dust, and other particles. The remaining $48 \%$ is absorbed at the surface. Image source: [Climate and Earth’s Energy Budget (nasa.gov)](https://earthobservatory.nasa.gov/features/EnergyBalance/page1.php)
+Of the $\pu{340 W m^-2}$ of solar energy that falls on the Earth, $29 \%$ is reflected into space, primarily by clouds, other bright surfaces, and the atmosphere itself. About $23 \%$ of incoming energy is absorbed in the atmosphere by atmospheric gases, dust, and other particles. The remaining $48 \%$ is absorbed at the surface. Image source: [Climate and Earth’s Energy Budget (nasa.gov)](https://earthobservatory.nasa.gov/features/EnergyBalance/page1.php)
 ```
 
 For more information, see [Climate and Earth’s Energy Budget (nasa.gov)](https://earthobservatory.nasa.gov/features/EnergyBalance/page1.php).
@@ -69,12 +69,12 @@ The inputs for the Earth–atmosphere energy budget consist of shortwave radiati
 name: earth-energy-budget
 figclass: margin-caption
 ---
-On average, $\pu{340 W m^2}$ of solar energy arrives at the top of the atmosphere. Earth returns an equal amount of energy back to space by reflecting some incoming light and by radiating heat (thermal infrared energy). Most solar energy is absorbed at the surface, while most heat is radiated back to space by the atmosphere. Earth's average surface temperature is maintained by two large, opposing energy fluxes between the atmosphere and the ground (right)—the greenhouse effect. Image source: [Climate and Earth's Energy Budget](https://science.nasa.gov/earth/earth-observatory/climate-and-earths-energy-budget/)
+On average, $\pu{340 W m^-2}$ of solar energy arrives at the top of the atmosphere. Earth returns an equal amount of energy back to space by reflecting some incoming light and by radiating heat (thermal infrared energy). Most solar energy is absorbed at the surface, while most heat is radiated back to space by the atmosphere. Earth's average surface temperature is maintained by two large, opposing energy fluxes between the atmosphere and the ground (right)—the greenhouse effect. Image source: [Climate and Earth's Energy Budget](https://science.nasa.gov/earth/earth-observatory/climate-and-earths-energy-budget/)
 ```
 
 ### Types of Energy Transfers
 
-Insolation, or incoming solar radiation, is the primary energy input driving the Earth-atmosphere system, but its intensity varies across different global locations. In the equatorial and tropical regions, there are only minor variations in day length and high sun altitude, resulting in relatively consistent insolation values ranging from approximately $180$ to $\pu{220 W m^2}$. However, insolation decreases toward the poles, particularly around $\pu{25\degree}$ latitude in the Northern and Southern Hemispheres. Generally, low-latitude deserts worldwide experience greater insolation at the surface due to frequently cloudless skies. 
+Insolation, or incoming solar radiation, is the primary energy input driving the Earth-atmosphere system, but its intensity varies across different global locations. In the equatorial and tropical regions, there are only minor variations in day length and high sun altitude, resulting in relatively consistent insolation values ranging from approximately $180$ to $\pu{220 W m^-2}$. However, insolation decreases toward the poles, particularly around $\pu{25\degree}$ latitude in the Northern and Southern Hemispheres. Generally, low-latitude deserts worldwide experience greater insolation at the surface due to frequently cloudless skies. 
 
 As insolation travels toward the Earth’s surface, it encounters an increasing density of atmospheric molecules. These gases, dust, cloud droplets, water vapor, and pollutants interact with insolation, redirecting radiation without changing its wavelengths. This phenomenon is known as *scattering*, and it accounts for some of the insolation that does not reach Earth’s surface but is instead reflected into space. Diffuse radiation is the portion of incoming energy that successfully reaches Earth’s surface after scattering.
 
@@ -121,7 +121,7 @@ Heat is transferred in and across most soil surfaces mainly through conduction. 
 
 ## Effective Energy and Mass Transfer
 
-An integrated framework based on thermodynamic theory characterizes the critical zone (CZ) as a system open to energy and mass fluxes, influenced by radiant, geochemical, and elevational gradients. [Rasmussen et al. (2011)](https://doi.org/10.1007/s10533-010-9476-8) demonstrated the relative importance of solar radiation, water, carbon, and physical/chemical denudation mass fluxes in the CZ energy balance. They used rates of effective energy and mass transfer ($EEMT$, W m$^{-2}$) measured in watts per square meter (W m⁻²) to quantify the relevant flux-gradient relationships.
+An integrated framework based on thermodynamic theory characterizes the critical zone (CZ) as a system open to energy and mass fluxes, influenced by radiant, geochemical, and elevational gradients. [Rasmussen et al. (2011)](https://doi.org/10.1007/s10533-010-9476-8) demonstrated the relative importance of solar radiation, water, carbon, and physical/chemical denudation mass fluxes in the CZ energy balance. They used rates of effective energy and mass transfer ($EEMT$, $\pu{W m-2}$) measured in watts per square meter ($\pu{W m-2}$) to quantify the relevant flux-gradient relationships.
 
 ```{figure} assets/Rassmussen_EEMT.png
 ---
@@ -146,7 +146,7 @@ $$
 
 Each term is defined below:
 
-The energy and mass flux associated with evapotranspiration, denoted as $E_{ET}$ (in W m$^{-2}$), can be expressed by the equation:
+The energy and mass flux associated with evapotranspiration, denoted as $E_{ET}$ (in $\pu{W m-2}$), can be expressed by the equation:
 
 $$
 E_{ET} = ET \cdot h_\nu
@@ -154,7 +154,7 @@ $$
 
 In this equation, $ET$ represents the mass flux of precipitation to evapotranspiration (in kg m$^{-2}$ s$^{-1}$), and $h_\nu$ is the latent heat of vaporization (in J kg $^{-1}$), which quantifies the fraction of radiant energy used to evaporate a given mass of water. This energy flux is primarily transferred from the Critical Zone (CZ) and returned to the atmosphere.
 
-The water mass flux converted to energy flux is represented as $E_{PPT}$ (in W m$^{-2}$) and can be calculated using the formula:
+The water mass flux converted to energy flux is represented as $E_{PPT}$ (in $\pu{W m-2}$) and can be calculated using the formula:
 
 $$
 E_{PPT} = F \cdot c_w \cdot \Delta T
@@ -162,7 +162,7 @@ $$
 
 Here, $F$ is the mass flux of precipitation to base flow from the water balance (in kg m$^{-2}$ s$^{-1}$), $c_w$ is the specific heat of water (in J kg$^{-1}$ K$^{-1}$), and $\Delta T = T_{ambient} - T_{ref}$, where $T_{ambient}$ refers to the ambient water temperature at the time of water flux (assumed to be equal to the ambient air temperature), and $T_{ref}$ is a reference temperature (273 K). When $T_{ref} > T_{ambient}$, then $E_{PPT} = 0$.
 
-The carbon mass flux, represented as $NPP$, can also be converted to energy flux and is denoted as $E_{BIO}$ (in W m$^{-2}$):
+The carbon mass flux, represented as $NPP$, can also be converted to energy flux and is denoted as $E_{BIO}$ (in $\pu{W m-2}$):
 
 $$
 E_{BIO} = NPP \cdot h_{BIO}
@@ -170,7 +170,7 @@ $$
 
 In this formula, $NPP$ stands for net primary production (in kg m$^{-2}$ s$^{-1}$), and $h_{BIO}$ is the specific biomass enthalpy (in J kg $^{-1}$). We assume an average $h_{BIO} = 22\times 10^6$ J kg$^{-1}$ based on the average values for various organic materials derived from calorimetric analyses.
  
-Physical denudation can be expressed in energy flux units as $E_{ELV}$ (in W m$^{-2}$), based on the change in the potential energy of uplifted sediment. It is calculated using the equation:
+Physical denudation can be expressed in energy flux units as $E_{ELV}$ (in $\pu{W m-2}$), based on the change in the potential energy of uplifted sediment. It is calculated using the equation:
 
 $$
 E_{ELV} = m \cdot g \cdot U
