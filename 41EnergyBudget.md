@@ -54,7 +54,7 @@ As electromagnetic energy travels through Earth's atmosphere, certain gases, suc
 name: atmos-energy-budget
 figclass: margin-caption
 ---
-Of the $340$ W m$^{-2}$ of solar energy that falls on the Earth, $29 \%$ is reflected into space, primarily by clouds, other bright surfaces, and the atmosphere itself. About $23 \%$ of incoming energy is absorbed in the atmosphere by atmospheric gases, dust, and other particles. The remaining $48 \%$ is absorbed at the surface. Image source: [Climate and Earth’s Energy Budget (nasa.gov)](https://earthobservatory.nasa.gov/features/EnergyBalance/page1.php)
+Of the $\pu{340 W m^2}$ of solar energy that falls on the Earth, $29 \%$ is reflected into space, primarily by clouds, other bright surfaces, and the atmosphere itself. About $23 \%$ of incoming energy is absorbed in the atmosphere by atmospheric gases, dust, and other particles. The remaining $48 \%$ is absorbed at the surface. Image source: [Climate and Earth’s Energy Budget (nasa.gov)](https://earthobservatory.nasa.gov/features/EnergyBalance/page1.php)
 ```
 
 For more information, see [Climate and Earth’s Energy Budget (nasa.gov)](https://earthobservatory.nasa.gov/features/EnergyBalance/page1.php).
@@ -69,12 +69,12 @@ The inputs for the Earth–atmosphere energy budget consist of shortwave radiati
 name: earth-energy-budget
 figclass: margin-caption
 ---
-On average, 340 W m$^2$ of solar energy arrives at the top of the atmosphere. Earth returns an equal amount of energy back to space by reflecting some incoming light and by radiating heat (thermal infrared energy). Most solar energy is absorbed at the surface, while most heat is radiated back to space by the atmosphere. Earth's average surface temperature is maintained by two large, opposing energy fluxes between the atmosphere and the ground (right)—the greenhouse effect. Image source: [Climate and Earth's Energy Budget](https://science.nasa.gov/earth/earth-observatory/climate-and-earths-energy-budget/)
+On average, $\pu{340 W m^2}$ of solar energy arrives at the top of the atmosphere. Earth returns an equal amount of energy back to space by reflecting some incoming light and by radiating heat (thermal infrared energy). Most solar energy is absorbed at the surface, while most heat is radiated back to space by the atmosphere. Earth's average surface temperature is maintained by two large, opposing energy fluxes between the atmosphere and the ground (right)—the greenhouse effect. Image source: [Climate and Earth's Energy Budget](https://science.nasa.gov/earth/earth-observatory/climate-and-earths-energy-budget/)
 ```
 
 ### Types of Energy Transfers
 
-Insolation, or incoming solar radiation, is the primary energy input driving the Earth-atmosphere system, but its intensity varies across different global locations. In the equatorial and tropical regions, there are only minor variations in day length and high sun altitude, resulting in relatively consistent insolation values ranging from approximately 180 to 220 W m². However, insolation decreases toward the poles, particularly around 25° latitude in the Northern and Southern Hemispheres. Generally, low-latitude deserts worldwide experience greater insolation at the surface due to frequently cloudless skies. $\pu{340 W m^2}$ $\ce{O2 (g)}$
+Insolation, or incoming solar radiation, is the primary energy input driving the Earth-atmosphere system, but its intensity varies across different global locations. In the equatorial and tropical regions, there are only minor variations in day length and high sun altitude, resulting in relatively consistent insolation values ranging from approximately $180$ to $\pu{220 W m^2}$. However, insolation decreases toward the poles, particularly around $\pu{25\degree}$ latitude in the Northern and Southern Hemispheres. Generally, low-latitude deserts worldwide experience greater insolation at the surface due to frequently cloudless skies. 
 
 As insolation travels toward the Earth’s surface, it encounters an increasing density of atmospheric molecules. These gases, dust, cloud droplets, water vapor, and pollutants interact with insolation, redirecting radiation without changing its wavelengths. This phenomenon is known as *scattering*, and it accounts for some of the insolation that does not reach Earth’s surface but is instead reflected into space. Diffuse radiation is the portion of incoming energy that successfully reaches Earth’s surface after scattering.
 

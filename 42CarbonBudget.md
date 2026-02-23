@@ -17,7 +17,7 @@ frameborder="0" allowfullscreen class="video"></iframe>
 
 ## Carbon Cycle
 
-Carbon is the foundation of all life on Earth, as it is essential for forming complex molecules like proteins and DNA. This element is also present in our atmosphere as carbon dioxide (CO$_2$). Carbon helps regulate the Earth’s temperature, supports all life, serves as a key ingredient in the food that sustains us, and is a major energy source that fuels our global economy.
+Carbon is the foundation of all life on Earth, as it is essential for forming complex molecules like proteins and DNA. This element is also present in our atmosphere as carbon dioxide ($\ce{CO2}$). Carbon helps regulate the Earth’s temperature, supports all life, serves as a key ingredient in the food that sustains us, and is a major energy source that fuels our global economy.
 
 The carbon cycle describes the continuous movement of carbon atoms between the atmosphere and the Earth. Since our planet and its atmosphere form a closed system, the total amount of carbon does not change. However, the location of carbon—whether in the atmosphere or within the Earth—is constantly shifting.
 
@@ -63,10 +63,12 @@ Photosynthesis is the only biological process capable of capturing energy from s
 
 Plants, algae, and a type of bacteria called cyanobacteria are the only organisms that perform photosynthesis. Since they use light to create food, they are called *photoautotrophs* (literally, "self-feeders using light"). In contrast, other organisms, such as animals, fungi, and most bacteria, are termed *heterotrophs* ("other feeders"), as they rely on the sugars produced by photosynthetic organisms for their energy needs. A small group of bacteria synthesize sugars without using sunlight's energy; these are known as *chemoautotrophs*.
 
-Photosynthesis is a multi-step process that requires specific wavelengths of visible sunlight, carbon dioxide (CO$_2$, which is low in energy), and water (H$_2$O) as substrates. It releases oxygen (O$_2$) upon completing the process. It produces simple carbohydrate molecules (high in energy) that can be converted into glucose, sucrose, or other sugar molecules. These sugar molecules contain the energy and energized carbon all living things need to survive.
+Photosynthesis is a multi-step process that requires specific wavelengths of visible sunlight, carbon dioxide ($\ce{CO2}$, which is low in energy), and water ($\ce{H2O}$) as substrates. It releases oxygen ($\ce{O2}$) upon completing the process. It produces simple carbohydrate molecules (high in energy) that can be converted into glucose, sucrose, or other sugar molecules. These sugar molecules contain the energy and energized carbon all living things need to survive.
 
 $$
-6 \text{CO}_2 + 6 \text{H}_2\text{O} \rightarrow[Sunlight] \text{C}_6\text{H}_{12}\text{O}_6 + 6 \text{O}_2
+\ce{
+6 CO2 + 6 H2O \rightarrow[Sunlight] C6H12O6 + 6 O2
+}
 $$
 
 The total amount of organic matter on Earth, or within any specific ecosystem, is called the biomass of that system. This biomass includes all living organisms as well as the byproducts of these organisms. Since most life exists on or near Earth’s surface, biomass is typically measured as an amount per unit of surface area.
@@ -88,7 +90,9 @@ Carbohydrates produced during photosynthesis are valuable to a plant when conver
 Organisms that obtain food energy by feeding on other organisms or organic compounds they produce are called heterotrophs. When heterotrophs consume another organism, the energy stored in the organic compounds is released through one of two metabolic processes. Organisms that cannot tolerate oxygen derive their energy through anaerobic fermentation, where carbohydrate molecules partially decompose to produce alcohol, carbon dioxide, and water while releasing energy. On the other hand, heterotrophs that can tolerate oxygen extract their energy through the aerobic process known as respiration (or cellular respiration). This process uses oxygen to break down carbohydrates, releasing carbon dioxide, water, and energy. Respiration is significantly more efficient than fermentation as a metabolic process.
 
 $$
-\text{O}_2 + \text{Sugars} \rightarrow \text{Alcohols} + \text{CO}_2 + \text{H}_2\text{O} + \text{Energy}
+\ce{
+O2 + Sugars \rightarrow Alcohols + CO2 + H2O + Energy
+}
 $$
 
 
@@ -113,7 +117,7 @@ Where:
 - $\frac{dC_{biomass}}{dt}$ is the rate of change in plant biomass carbon stock
 - $α_{biomass}$ is the fraction of $NPP$ allocated to plant biomass growth
 
-Environmental factors such as temperature, precipitation, and atmospheric concentrations of CO$_2$ and ozone significantly impact plant processes. They can affect plants directly, for example, through heat damage or indirectly by influencing the availability of carbohydrates, such as by reducing photosynthetic rates. In response to changes in environmental conditions, plants adjust how they allocate available carbon among different organs (such as prioritizing aboveground versus belowground growth or reproduction) and functional metabolites (for instance, choosing between synthesizing cellulose for growth and producing defensive compounds). These plant responses define their allocation strategies, many of which remain poorly understood in the context of climate change. Environmental factors such as temperature, precipitation, and atmospheric concentrations of CO$_2$ and ozone significantly impact plant processes. They can affect plants directly, for example, through heat damage or indirectly by influencing the availability of carbohydrates, such as by reducing photosynthetic rates. In response to changes in environmental conditions, plants adjust how they allocate available carbon among different organs (such as prioritizing aboveground versus belowground growth or reproduction) and functional metabolites (for instance, choosing between synthesizing cellulose for growth and producing defensive compounds). These plant responses define their allocation strategies, many of which remain poorly understood in the context of climate change.
+Environmental factors such as temperature, precipitation, and atmospheric concentrations of $\ce{CO2}$ and ozone significantly impact plant processes. They can affect plants directly, for example, through heat damage or indirectly by influencing the availability of carbohydrates, such as by reducing photosynthetic rates. In response to changes in environmental conditions, plants adjust how they allocate available carbon among different organs (such as prioritizing aboveground versus belowground growth or reproduction) and functional metabolites (for instance, choosing between synthesizing cellulose for growth and producing defensive compounds). These plant responses define their allocation strategies, many of which remain poorly understood in the context of climate change. Environmental factors such as temperature, precipitation, and atmospheric concentrations of $\ce{CO2}$ and ozone significantly impact plant processes. They can affect plants directly, for example, through heat damage or indirectly by influencing the availability of carbohydrates, such as by reducing photosynthetic rates. In response to changes in environmental conditions, plants adjust how they allocate available carbon among different organs (such as prioritizing aboveground versus belowground growth or reproduction) and functional metabolites (for instance, choosing between synthesizing cellulose for growth and producing defensive compounds). These plant responses define their allocation strategies, many of which remain poorly understood in the context of climate change.
 
 
 ### Controls on *NPP* 
@@ -121,7 +125,6 @@ Environmental factors such as temperature, precipitation, and atmospheric concen
 The main controls on $NPP$ can be categorized into environmental and biological factors.
 
 **Environmental Factors**:
-
 1. Light availability: Photosynthesis is driven by the energy from sunlight, so the amount of available light is a critical factor for $NPP$. Light availability is influenced by latitude, season, cloud cover, and forest canopy structure.
 2. Temperature: Photosynthesis and respiration rates are temperature-dependent, with an optimum range for most plant species. Temperatures that are too low or too high can limit $NPP$.
 3. Water availability: Water is essential for photosynthesis and plant growth. Drought conditions can severely limit $NPP$, while excessive water can also be detrimental.
@@ -129,7 +132,6 @@ The main controls on $NPP$ can be categorized into environmental and biological 
 5. CO$_2$ concentration: Higher atmospheric CO$_2$ concentrations can increase photosynthetic rates and potentially boost $NPP$, although other factors may limit the response.
 
 **Biological Factors**:
-
 1. Plant species composition: Different plants have varying photosynthetic efficiencies, growth rates, and resource requirements, which can influence $NPP$ at the ecosystem level.
 2. Plant functional traits: Traits such as leaf area, leaf lifespan, root architecture, and wood density can affect the efficiency of resource acquisition and utilization, impacting $NPP$.
 3. Plant age and development: $NPP$ generally increases as plants mature, reaches a maximum at an intermediate age, and then declines as plants senesce.
@@ -145,7 +147,6 @@ The main equations that cover the carbon budget on Earth (or the CZ) involve tra
 Here are some of the key equations used to quantify the carbon budget:
 
 1. Atmospheric Carbon Balance:  
-   
    $$\frac{dC_{atm}}{dt} = E_{ff} + E_{luc} - S_{ocean} - S_{land}$$
     Where:
     - $\frac{dC_{atm}}{dt}$ is the rate of change in atmospheric carbon dioxide (CO$_2$) concentration
@@ -155,7 +156,6 @@ Here are some of the key equations used to quantify the carbon budget:
     - $S_{land}$ is the uptake of carbon by terrestrial ecosystems
 
 2. Ocean Carbon Uptake: 
-   
    $$S_{ocean} = k_g \times (p\text{CO}_{2,atmos} - p\text{CO}_{2, ocean})$$
     Where:
     - $k_g$ is the gas transfer coefficient
@@ -163,7 +163,6 @@ Here are some of the key equations used to quantify the carbon budget:
     - $p\text{CO}_{2, ocean}$ is the partial pressure of CO$_2$ in the ocean surface waters
 
 3. Terrestrial Biosphere Carbon Uptake: 
-   
    $$S_{land} = NPP - R_h - D$$
     Where:
     - $NPP$ is the net primary production (the amount of carbon fixed by plants through photosynthesis)
@@ -171,7 +170,6 @@ Here are some of the key equations used to quantify the carbon budget:
     - $D$ is the disturbance flux (e.g., fires, deforestation)
 
 4. Geological Carbon Reservoir Balance: 
-   
    $$\frac{dC_{geo}}{dt} = F_{burial} - F_{weathering} - E_{ff}$$
     Where:
     - $\frac{dC_{geo}}{dt}$ is the rate of change in the geological carbon reservoir
@@ -180,7 +178,6 @@ Here are some of the key equations used to quantify the carbon budget:
     - $E_{ff}$ is the emission from fossil fuel combustion
 
 5. Climate-Carbon Cycle Feedback Relationship: 
-   
    $$\begin{align}
    NPP &= f(T, P, \text{CO}_2) \\
    R_h &= g(T, P, \text{CO}_2)
