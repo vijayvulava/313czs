@@ -101,7 +101,7 @@ $$
 The process of dividing the primary products of photosynthesis into various functional groups is known as carbon (C) allocation. Several conceptual frameworks established decades ago describe plant allocation strategies as a balance between the biomass of aboveground and belowground organs. Additionally, allocation can be seen as a trade-off in resource distribution among different functional needs, such as growth and defense, particularly in the presence of herbivores and pathogens.
 
 
-```{figure} https://nph.onlinelibrary.wiley.com/cms/asset/03529db7-8fd5-49f0-b25a-fe9e4e31edaa/nph16757-fig-0001-m.jpg
+```{figure} assets/nph16757-fig-0001-m.jpg
 ---
 name: carbon-allocation
 figclass: margin-caption
