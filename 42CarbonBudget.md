@@ -17,7 +17,7 @@ frameborder="0" allowfullscreen class="video"></iframe>
 
 ## Carbon Cycle
 
-Carbon is the foundation of all life on Earth, as it is essential for forming complex molecules like proteins and DNA. This element is also present in our atmosphere as carbon dioxide ($\ce{CO2}$). Carbon helps regulate the Earth’s temperature, supports all life, serves as a key ingredient in the food that sustains us, and is a major energy source that fuels our global economy.
+Carbon is the foundation of all life on Earth, as it is essential for forming complex molecules like proteins and DNA. This element is also present in our atmosphere as $\ce{CO2}$. Carbon helps regulate the Earth’s temperature, supports all life, serves as a key ingredient in the food that sustains us, and is a major energy source that fuels our global economy.
 
 The carbon cycle describes the continuous movement of carbon atoms between the atmosphere and the Earth. Since our planet and its atmosphere form a closed system, the total amount of carbon does not change. However, the location of carbon—whether in the atmosphere or within the Earth—is constantly shifting.
 
@@ -27,7 +27,7 @@ Carbon is released back into the atmosphere through various processes, such as w
 
 Carbon is continually exchanged between the surface waters and the atmosphere in the oceans, or it can be stored for long periods in the ocean depths.
 
-Humans significantly impact the carbon cycle through activities such as burning fossil fuels and land development, which result in a rapid increase in CO$_2$ levels in the atmosphere.
+Humans significantly impact the carbon cycle through activities such as burning fossil fuels and land development, which result in a rapid increase in $\ce{CO2}$ levels in the atmosphere.
 
 ```{figure} https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/content-feature/carboncycle/images/carbon_cycle.jpg
 ---
@@ -63,7 +63,7 @@ Photosynthesis is the only biological process capable of capturing energy from s
 
 Plants, algae, and a type of bacteria called cyanobacteria are the only organisms that perform photosynthesis. Since they use light to create food, they are called *photoautotrophs* (literally, "self-feeders using light"). In contrast, other organisms, such as animals, fungi, and most bacteria, are termed *heterotrophs* ("other feeders"), as they rely on the sugars produced by photosynthetic organisms for their energy needs. A small group of bacteria synthesize sugars without using sunlight's energy; these are known as *chemoautotrophs*.
 
-Photosynthesis is a multi-step process that requires specific wavelengths of visible sunlight, carbon dioxide ($\ce{CO2}$, which is low in energy), and water ($\ce{H2O}$) as substrates. It releases oxygen ($\ce{O2}$) upon completing the process. It produces simple carbohydrate molecules (high in energy) that can be converted into glucose, sucrose, or other sugar molecules. These sugar molecules contain the energy and energized carbon all living things need to survive.
+Photosynthesis is a multi-step process that requires specific wavelengths of visible sunlight, $\ce{CO2}$ (low in energy), and $\ce{H2O}$ as substrates. It releases $\ce{O2}$ upon completing the process. It produces simple carbohydrate molecules (high in energy) that can be converted into glucose, sucrose, or other sugar molecules. These sugar molecules contain the energy and energized carbon all living things need to survive.
 
 $$
 \ce{
@@ -98,7 +98,7 @@ $$
 
 ### Allocation
 
-The process of dividing the primary products of photosynthesis into various functional groups is known as carbon (C) allocation. Several conceptual frameworks established decades ago describe plant allocation strategies as a balance between the biomass of aboveground and belowground organs. Additionally, allocation can be seen as a trade-off in resource distribution among different functional needs, such as growth and defense, particularly in the presence of herbivores and pathogens.
+The process of dividing the primary products of photosynthesis into various functional groups is known as carbon allocation. Several conceptual frameworks established decades ago describe plant allocation strategies as a balance between the biomass of aboveground and belowground organs. Additionally, allocation can be seen as a trade-off in resource distribution among different functional needs, such as growth and defense, particularly in the presence of herbivores and pathogens.
 
 
 ```{figure} assets/nph16757-fig-0001-m.jpg
@@ -128,7 +128,7 @@ The main controls on $NPP$ can be categorized into environmental and biological 
 2. Temperature: Photosynthesis and respiration rates are temperature-dependent, with an optimum range for most plant species. Temperatures that are too low or too high can limit $NPP$.
 3. Water availability: Water is essential for photosynthesis and plant growth. Drought conditions can severely limit $NPP$, while excessive water can also be detrimental.
 4. Nutrient availability: Plants require nitrogen, phosphorus, and potassium for growth and development. Nutrient limitations in the soil can constrain $NPP$.
-5. CO$_2$ concentration: Higher atmospheric CO$_2$ concentrations can increase photosynthetic rates and potentially boost $NPP$, although other factors may limit the response.
+5. $\ce{CO2}$ concentration: Higher atmospheric $\ce{CO2}$ concentrations can increase photosynthetic rates and potentially boost $NPP$, although other factors may limit the response.
 
 **Biological Factors**:
 1. Plant species composition: Different plants have varying photosynthetic efficiencies, growth rates, and resource requirements, which can influence $NPP$ at the ecosystem level.
@@ -148,7 +148,7 @@ Here are some of the key equations used to quantify the carbon budget:
 1. Atmospheric Carbon Balance:  
    $$\frac{dC_{atm}}{dt} = E_{ff} + E_{luc} - S_{ocean} - S_{land}$$
     Where:
-    - $\frac{dC_{atm}}{dt}$ is the rate of change in atmospheric carbon dioxide (CO$_2$) concentration
+    - $\frac{dC_{atm}}{dt}$ is the rate of change in atmospheric $\ce{CO2}$ concentration
     - $E_{ff}$ is the emission from fossil fuel combustion and industrial processes
     - $E_{luc}$ is the emission from land-use change (e.g., deforestation)
     - $S_{ocean}$ is the uptake of carbon by the oceans
@@ -158,8 +158,8 @@ Here are some of the key equations used to quantify the carbon budget:
    $$S_{ocean} = k_g \times (p\text{CO}_{2,atmos} - p\text{CO}_{2, ocean})$$
     Where:
     - $k_g$ is the gas transfer coefficient
-    - $p\text{CO}_{2, atmos}$ is the partial pressure of CO$_2$ in the atmosphere
-    - $p\text{CO}_{2, ocean}$ is the partial pressure of CO$_2$ in the ocean surface waters
+    - $p\text{CO}_{2, atmos}$ is the partial pressure of $\ce{CO2}$ in the atmosphere
+    - $p\text{CO}_{2, ocean}$ is the partial pressure of $\ce{CO2}$ in the ocean surface waters
 
 3. Terrestrial Biosphere Carbon Uptake: 
    $$S_{land} = NPP - R_h - D$$

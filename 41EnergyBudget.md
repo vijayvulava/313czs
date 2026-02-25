@@ -223,7 +223,7 @@ where $Q$ is water flow into ($Q_{In}$) or out ($Q_{Out}$) of a watershed (can b
 
 Meteorological and stream data will be required to calculate an annual water budget for a specific location.
 
-Precipitation is typically measured using either automated or manual rain gauges. To calculate the total precipitation ($P$) for a watershed, multiple measurements are often taken across the area to estimate an average value. Additionally, identifying the watershed boundary is crucial for accurate calculations, known as watershed delineation. Automated tools, such as those available on [StreamStats (usgs.gov)](https://streamstats.usgs.gov/ss/), can assist in delineating the watershed of interest.
+Precipitation is typically measured using either automated or manual rain gauges. To calculate the total precipitation ($P$) for a watershed, multiple measurements are often taken across the area to estimate an average value. Additionally, identifying the watershed boundary is crucial for accurate calculations, known as watershed delineation. Automated tools, such as those available on [USGS StreamStats](https://streamstats.usgs.gov/ss/), can assist in delineating the watershed of interest.
 
 Evapotranspiration ($ET$) plays a significant role in the water balance and influences soil moisture content, groundwater recharge, and streamflow. It is responsible for returning a substantial portion of the precipitation that falls on land to the atmosphere. Generally, $ET$ is considered a loss in the water budget since it decreases streamflow, storage, and available groundwater. Various methods are available to measure $ET$ (such as potted plants or lysimeters), but many research sites commonly employ the eddy covariance flux method. Due to the challenges in measuring $ET$, several estimation methods have been developed.
 
@@ -241,8 +241,9 @@ Q_{SW}=AV
 $$
 where, $Q_{SW}$ is stream discharge, $A$ is cross-sectional area of a stream, and $V$ is the average velocity at a given location. In smaller streams with diffuse flows, "flumes" are installed.  In large streams, complex methods are used to measure discharge. See [How Streamflow is Measured | U.S. Geological Survey (usgs.gov)](https://www.usgs.gov/special-topics/water-science-school/science/how-streamflow-measured). 
 
-USGS measures streamflow and makes these data available in real-time at [USGS | National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/en/?region=lower48&aoi=default). For example, [Click Here for stream data for the greater Charleston area.]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?region=lower48&aoi=default&view=%7B%22basemap%22%3A%22EsriTopo%22%2C%22bounds%22%3A%22-81.3917271935721%2C32.525034335310814%2C-79.05330756375152%2C33.55722732300874%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22checkbox%22%3A%220%2C9%2C19%2C20%2C21%2C22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A0.8%2C8%3A0.3%2C9%3A0.5%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A1.0%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%22%7D%7D )
-You can also create runoff simulations at [Model My Watershed® - WikiWatershed](https://wikiwatershed.org/model/).
+USGS measures streamflow and makes these data available in real-time at the  [National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/en/?region=lower48&aoi=default).  You can also delineate watershed extent and other data using the [USGS StreamStats](https://streamstats.usgs.gov/ss/) application using a map interface.
+
+You can create runoff simulations at [Model My Watershed® - WikiWatershed](https://wikiwatershed.org/model/).
  
 
 ## Readings and resources for this section
