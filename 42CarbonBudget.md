@@ -46,12 +46,12 @@ In ecosystems, energy flow sets living systems apart from the rest of the univer
 Two aspects are essential to understanding the role of energy in ecosystems fully. The first is the function of energy in living systems, particularly its role in producing organic matter. This information can help us understand the ultimate limits on the abundance of life. The second aspect concerns the pathways through which energy flows, the efficiency of its use, and its role in the various life processes.
 
 
-```{figure} https://essd.copernicus.org/articles/12/3269/2020/essd-12-3269-2020-f02-web.png
+```{figure} https://www.icos-cp.eu/sites/default/files/inline-images/GCP2025_overview.png
 ---
 name: global-carbon-budget
 figclass: margin-caption
 ---
-Schematic representation of the overall perturbation of the global carbon cycle caused by anthropogenic activities averaged globally for 2010–2019. Image source: [ESSD - Global Carbon Budget 2020 (copernicus.org)](https://essd.copernicus.org/articles/12/3269/2020/)
+Schematic representation of the overall perturbation of the global carbon cycle caused by anthropogenic activities, averaged globally for the decade 2015-2024. Image source: [Global Carbon Budget 2025 (copernicus.org)](https://essd.copernicus.org/preprints/essd-2025-659/)
 ```
 
 
