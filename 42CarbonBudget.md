@@ -123,14 +123,14 @@ Environmental factors such as temperature, precipitation, and atmospheric concen
 
 The main controls on $NPP$ can be categorized into environmental and biological factors.
 
-**Environmental Factors**:
+#### Environmental Factors
 1. Light availability: Photosynthesis is driven by the energy from sunlight, so the amount of available light is a critical factor for $NPP$. Light availability is influenced by latitude, season, cloud cover, and forest canopy structure.
 2. Temperature: Photosynthesis and respiration rates are temperature-dependent, with an optimum range for most plant species. Temperatures that are too low or too high can limit $NPP$.
 3. Water availability: Water is essential for photosynthesis and plant growth. Drought conditions can severely limit $NPP$, while excessive water can also be detrimental.
 4. Nutrient availability: Plants require nitrogen, phosphorus, and potassium for growth and development. Nutrient limitations in the soil can constrain $NPP$.
 5. $\ce{CO2}$ concentration: Higher atmospheric $\ce{CO2}$ concentrations can increase photosynthetic rates and potentially boost $NPP$, although other factors may limit the response.
 
-**Biological Factors**:
+#### Biological Factors
 1. Plant species composition: Different plants have varying photosynthetic efficiencies, growth rates, and resource requirements, which can influence $NPP$ at the ecosystem level.
 2. Plant functional traits: Traits such as leaf area, leaf lifespan, root architecture, and wood density can affect the efficiency of resource acquisition and utilization, impacting $NPP$.
 3. Plant age and development: $NPP$ generally increases as plants mature, reaches a maximum at an intermediate age, and then declines as plants senesce.

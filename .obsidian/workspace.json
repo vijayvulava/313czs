@@ -217,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 462.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,7 +243,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "228aa50acbd9c7df",
+  "active": "8e09496295981019",
   "lastOpenFiles": [
     "41EnergyBudget.md",
     "42CarbonBudget.md",
