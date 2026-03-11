@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42CarbonBudget.md",
+                "file": "51WaterBalanceTree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "42CarbonBudget"
+              "title": "51WaterBalanceTree"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42CarbonBudget.md",
+                "file": "51WaterBalanceTree.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 42CarbonBudget"
+              "title": "Outline of 51WaterBalanceTree"
             }
           },
           {
@@ -217,8 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5,
-    "collapsed": true
+    "width": 462.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,8 +244,9 @@
   },
   "active": "8e09496295981019",
   "lastOpenFiles": [
-    "41EnergyBudget.md",
     "42CarbonBudget.md",
+    "51WaterBalanceTree.md",
+    "41EnergyBudget.md",
     "assets/Rassmussen_EEMT.png",
     "assets/nph16757-fig-0001-m.jpg",
     "32LandformsRemoteSensing.md",

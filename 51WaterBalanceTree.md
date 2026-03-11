@@ -141,27 +141,30 @@ frameborder="0" allowfullscreen class="video"></iframe>
 
 Soil evaporation and plant transpiration are both processes through which water is lost to the atmosphere, but they differ in how water moves from the soil to the air. In transpiration, water is absorbed by the plant's roots, travels through the plant, and is vaporized in the leaves before escaping into the atmosphere through tiny openings called stomata. In contrast, soil evaporation occurs when water moves directly from the soil surface to the atmosphere. Evapotranspiration (ET) data are typically expressed as a depth of water loss over a specific time, similar to precipitation measurements, with standard units being inches per day (in d⁻¹) or millimeters per day (mm d⁻¹). 
 
-Four key factors influence the rate of ET in a given environment. The most critical factor is soil moisture; without sufficient water in the soil, evaporation and transpiration cannot occur. However, when there is adequate soil moisture, three additional factors come into play: plant type, stage of plant development, and weather conditions.
+#### Key Factors
 
-Plant type refers to the species or variety of cultivated plants and can significantly impact ET rates. For example, grasses and many non-native plants require substantial water in desert environments.  In contrast, many native plants have adapted to arid conditions and require much less water.
+Four key factors influence the rate of ET in a given environment.  Together, these factors dictate the overall evapotranspiration rate in any given environment.
 
-The stage of plant development also plays an essential role in determining ET. This stage encompasses the plant's activity level (e.g., dormant vs. actively growing) and the size of the plant. Dormant plants use very little water, whereas lush, actively growing plants need considerably more. Additionally, the size and density of the plants affect ET; smaller plants and areas with sparse canopies use significantly less water than larger plants and areas with dense canopies. 
+1. The most critical factor is soil moisture; without sufficient water in the soil, evaporation and transpiration cannot occur. However, when there is adequate soil moisture, three additional factors come into play: plant type, stage of plant development, and weather conditions.
+2. Plant type refers to the species or variety of cultivated plants and can significantly impact ET rates. For example, grasses and many non-native plants require substantial water in desert environments.  In contrast, many native plants have adapted to arid conditions and require much less water.
+3. The stage of plant development also plays an essential role in determining ET. This stage encompasses the plant's activity level (e.g., dormant vs. actively growing) and the size of the plant. Dormant plants use very little water, whereas lush, actively growing plants need considerably more. Additionally, the size and density of the plants affect ET; smaller plants and areas with sparse canopies use significantly less water than larger plants and areas with dense canopies.  
+4. Weather is the fourth and final critical factor affecting evapotranspiration (ET). Weather conditions determine the energy available for evaporation, which is crucial in determining the ET rate. 
 
-Together, these factors dictate the overall evapotranspiration rate in any given environment.
+Four weather parameters - solar radiation (the amount of sunshine), wind speed, humidity, and temperature - impact the rate of ET. 
+	1. Solar radiation contributes significant energy to vegetation, especially in desert environments. It is often the meteorological parameter with the most significant impact on ET on most days. Solar radiation is one component of vegetation's total radiant energy balance, known as net radiation. The other component is invisible infrared radiation. However, on most days, solar radiation is the dominant component of net radiation because the infrared balance is usually negative and relatively small.
+	2. Wind is the second most important factor influencing the ET rate. Wind serves two significant roles: first, it transports heat from adjacent surfaces (such as desert soils or asphalt) to vegetation, accelerating evaporation - a process known as advection. Additionally, wind enhances evaporation by improving the turbulent transfer of water vapor from moist vegetation to the drier atmosphere. This process involves the wind continually replacing the moist air within and just above the plant canopy with drier air from above.
+	3. Humidity and temperature work together to determine the drying power of the atmosphere. The vapor pressure deficit (VPD) is the key meteorological variable to quantify this drying power. The VPD estimates the difference (or gradient) in vapor pressure (water vapor concentration) between moist vegetation and the drier atmosphere above. Relative humidity, the most commonly reported humidity variable in weather forecasts, is not a reliable indicator of atmospheric dryness. For example, the drying power (VPD) of an atmosphere with 30% relative humidity at 86°F is twice that of an atmosphere with the same 30% relative humidity at 68°F.
+	4. The final parameter affecting the ET rate is temperature. We have noted that temperature influences ET through its effects on VPD and advection. Moreover, there are more subtle ways in which temperature affects ET. When all other factors are equal, ET will be higher for warm vegetation than cool vegetation because less energy is needed to evaporate water from warm surfaces. Additionally, temperature affects the effectiveness of radiant energy and wind in promoting evaporation. Radiant energy is utilized more effectively for ET when temperatures are high, while wind significantly impacts ET when temperatures are low.
 
-Weather is the fourth and final critical factor affecting evapotranspiration (ET). Weather conditions determine the energy available for evaporation, which is crucial in determining the ET rate. Four weather parameters - solar radiation (the amount of sunshine), wind speed, humidity, and temperature - impact the rate of ET. 
+Evapotranspiration is measured using an eddy covariance flux tower. This approach assumes that, within the boundary layer close to the Earth's surface (50–100 m), moisture transport is governed by eddies that move air with higher moisture content upward and air with lower moisture content downward. This process results in the mass transfer of moisture, referred to as fluxes, which represent the rate of transfer of wind and moisture across a unit area.
 
-Solar radiation contributes significant energy to vegetation, especially in desert environments. It is often the meteorological parameter with the most significant impact on ET on most days. Solar radiation is one component of vegetation's total radiant energy balance, known as net radiation. The other component is invisible infrared radiation. However, on most days, solar radiation is the dominant component of net radiation because the infrared balance is usually negative and relatively small.
+<div class="container">
+<iframe src="https://www.youtube.com/embed/uAapAAInDpQ" 
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
-Wind is the second most important factor influencing the ET rate. Wind serves two significant roles: first, it transports heat from adjacent surfaces (such as desert soils or asphalt) to vegetation, accelerating evaporation - a process known as advection. Additionally, wind enhances evaporation by improving the turbulent transfer of water vapor from moist vegetation to the drier atmosphere. This process involves the wind continually replacing the moist air within and just above the plant canopy with drier air from above.
+See [Evapotranspiration and the Water Cycle | U.S. Geological Survey (usgs.gov)](https://www.usgs.gov/special-topics/water-science-school/science/evapotranspiration-and-water-cycle),   [OpenET](https://etdata.org/), and [OpenET DataExplorer](https://etdata.org/openet-data-explorer/)
 
-Humidity and temperature work together to determine the drying power of the atmosphere. The vapor pressure deficit (VPD) is the key meteorological variable to quantify this drying power. The VPD estimates the difference (or gradient) in vapor pressure (water vapor concentration) between moist vegetation and the drier atmosphere above. Relative humidity, the most commonly reported humidity variable in weather forecasts, is not a reliable indicator of atmospheric dryness. For example, the drying power (VPD) of an atmosphere with 30% relative humidity at 86°F is twice that of an atmosphere with the same 30% relative humidity at 68°F.
-
-The final parameter affecting the ET rate is temperature. We have noted that temperature influences ET through its effects on VPD and advection. Moreover, there are more subtle ways in which temperature affects ET. When all other factors are equal, ET will be higher for warm vegetation than cool vegetation because less energy is needed to evaporate water from warm surfaces. Additionally, temperature affects the effectiveness of radiant energy and wind in promoting evaporation. Radiant energy is utilized more effectively for ET when temperatures are high, while wind significantly impacts ET when temperatures are low.
-
-Evapotranspiration is measured using an eddy covariance flux tower. This approach assumes that, within the boundary layer close to the Earth's surface (50–100 meters), moisture transport is governed by eddies that move air with higher moisture content upward and air with lower moisture content downward. This process results in the mass transfer of moisture, referred to as fluxes, which represent the rate of transfer of wind and moisture across a unit area.
-
-See [Evapotranspiration and the Water Cycle | U.S. Geological Survey (usgs.gov)](https://www.usgs.gov/special-topics/water-science-school/science/evapotranspiration-and-water-cycle)
 
 ### Infiltration and Soil Water
 
@@ -170,19 +173,12 @@ See [Evapotranspiration and the Water Cycle | U.S. Geological Survey (usgs.gov)]
 Several factors influence the infiltration rate, including soil texture, land management practices, soil moisture, salinity, temperature, and frozen soil.
 
 1. **Soil Texture:** Coarse-textured soils, such as sandy loam or gravel, have larger pores and, therefore, exhibit higher infiltration rates compared to fine-textured soils like clay or silt loam, which have a more significant number of smaller pores. Additionally, clay pans or compacted layers within the soil can reduce infiltration. Hydraulic conductivity can express the differences in infiltration across various soil textures.
-
 2. **Soil Structure:** Features such as macropores, shrink/swell potential, and restricting layers can all influence infiltration. Surface sealing can decrease infiltration rates during rainfall, which is caused by the impact of rain and colloidal swelling. Thus, the surface cover of the soil is vital for optimizing infiltration.
-
 3. **Land Management:** Forest cover generally leads to greater infiltration rates than grasslands because the organic matter in forests promotes the formation of soil aggregates. Conversely, burning vegetation can reduce infiltration rates by removing soil organic matter and causing soil particles to lose aggregation. Burning can sometimes result in clogged soil pores, and burnt surfaces can become hydrophobic. Additionally, urban soil compaction can negatively impact infiltration. However, mulching can improve infiltration rates. Agricultural cropping often reduces infiltration since it exposes the soil to rainfall impact.
-
 4. **Soil Moisture:** The initial water content of the soil affects the infiltration rate. The infiltration rate decreases as the moisture content increases because the pores become filled with water. In arid, sandy soils, the infiltration rate can increase over time as trapped air is released, which initially impedes water infiltration.
-
 5. **Water Quality:** Certain chemical constituents in water can influence infiltration rates. For example, increased salinity lowers the infiltration rate. Sodium in water can break down aggregates and disperse soil particles, leading to clogged pores. Adding salt to soil can intentionally reduce infiltration rates; road salt has a similar effect. Highly turbid surface water can also decrease infiltration by clogging pores with sediment.
-
 6. **Temperature:** Water temperature affects its viscosity, influencing the infiltration rate. Higher temperatures generally increase infiltration rates, while increased viscosity decreases them. For instance, a temperature increase from 40°F to 100°F could double the infiltration rate.
-
 7. **Soil Freezing:** Soil frost can impact infiltration rates, with the effect varying depending on the type of frost present. Frozen soil is typically impervious to air and water. Specific land management practices can influence the type of frost that forms; for example, clear-cutting can lead to concrete frost formation due to reduced evapotranspiration, which may result in wetter soils in specific scenarios.
-
 
 Overall, understanding these factors is crucial for managing soil water resources effectively.
 #### Measuring Infiltration:
@@ -236,13 +232,9 @@ Plants are remarkable hydraulic engineers. They can move water to the tops of tr
 Trees transport water from their roots to their leaves through a specialized vascular tissue called xylem. The xylem forms a continuous system of interconnected conduits that extend from the roots, through the trunk and branches, and into the leaves. This process occurs in several steps:
 
 1. **Root Uptake:** The root hairs and fine roots absorb water from the soil through osmosis. The water then enters the xylem vessels in the roots.
-
 2. **Transpirational Pull:** As water evaporates from the leaf surfaces—a process known as transpiration—it creates a negative pressure or tension within the xylem vessels of the leaves. This tension is transmitted down through the interconnected xylem conduits.
-
 3. **Capillary Action:** The cohesive forces between water molecules and the adhesive forces between water and the xylem vessel walls create a continuous water column within the xylem. This mechanism allows the transpirational pull to be transmitted down to the roots.
-
 4. **Root Pressure:** In some cases, particularly during the spring, the roots can generate a positive pressure known as root pressure, which helps push water up through the xylem.
-
 5. **Xylem Transport:** The combination of transpirational pull and root pressure, along with water's cohesion and adhesion properties, causes the water to move upward through the xylem vessels from the roots to the leaves.
 
 The xylem vessels are reinforced with lignin, which provides structural support and prevents the vessels from collapsing under the negative pressure created during transpiration. This efficient water transport system enables trees to move large volumes of water, even to great heights, to meet the demands of leaf transpiration.
@@ -257,13 +249,9 @@ frameborder="0" allowfullscreen class="video"></iframe>
 Water potential is crucial in water transport from the roots to tree leaves. It measures the potential energy of water, determining the direction and rate of water movement within the plant's vascular system. Here’s how water potential influences this process:
 
 1. **Soil Water Potential**: Water moves from higher water potential to areas of lower water potential. The water potential in the soil is typically higher than that in the plant's roots, driving the initial uptake of water from the soil into the root xylem.
-
 2. **Root Water Potential**: Water entering the root xylem lowers the water potential in the roots compared to the surrounding soil, thereby maintaining the driving force for further water uptake.
-
 3. **Transpirational Pull**: Transpiration from the leaves creates a low water potential in the leaf cells. This change is transmitted through the continuous xylem conduits as tension or negative pressure. The transpirational pull establishes a water potential gradient from the roots to the leaves, facilitating the upward movement of water.
-
 4. **Cohesion-Tension Theory**: The cohesive forces between water molecules (due to hydrogen bonding) and the adhesive forces between water and the hydrophilic xylem vessel walls allow the transpirational pull to be effectively transmitted through the xylem. This occurs even over long distances without breaking the continuous water column.
-
 5. **Root Pressure**: In some cases, roots can generate positive pressure, which increases the water potential in the root xylem, contributing to the overall driving force for water transport.
 
 The water potential gradient created by transpiration, combined with the cohesive and adhesive properties of water, ensures that water moves from the soil (higher water potential) into the roots, through the xylem, and ultimately to the leaves (lower water potential) to replenish the water lost through transpiration. This continuous process, driven by differences in water potential, is essential for maintaining water balance and supporting tree physiological processes.
