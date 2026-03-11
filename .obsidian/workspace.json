@@ -244,8 +244,10 @@
   },
   "active": "8e09496295981019",
   "lastOpenFiles": [
-    "42CarbonBudget.md",
+    "61Biogeochemistry.md",
+    "52WaterBalanceImpacts.md",
     "51WaterBalanceTree.md",
+    "42CarbonBudget.md",
     "41EnergyBudget.md",
     "assets/Rassmussen_EEMT.png",
     "assets/nph16757-fig-0001-m.jpg",
@@ -256,7 +258,6 @@
     "12SoilOverview.md",
     "assets/oki-hydro-cycle.png",
     "62BiogeochemicalCycles.md",
-    "61Biogeochemistry.md",
     "1CZBackground.md",
     "_build/site/content/researchpapers.json",
     "_build/site/content/literaturereviews.json",
@@ -277,7 +278,6 @@
     "8Appendices.md",
     "6Biogeochem.md",
     "5WaterTransfer.md",
-    "4LandAtmosphere.md",
-    "3CZArchitectureEvolution.md"
+    "4LandAtmosphere.md"
   ]
 }
