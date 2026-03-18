@@ -215,10 +215,15 @@ Calculate the annual precipitation for the entire area.
 - Step 2: Choose the nearest three neighbors to each centroid in a pixel.
 
 ![2nd Step](assets/idw2.png)
+
 ![3rd Step](assets/idw3.png)
+
 ![4th Step](assets/idw4.png)
+
 ![5th Step](assets/idw5.png)
+
 ![6th Step](assets/idw6.png)
+
 ![7th Step](assets/idw7.png)
 
 - Step 3: Calculate the IDWs for each pixel as follows.
