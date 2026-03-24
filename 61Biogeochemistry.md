@@ -2,7 +2,7 @@
 
 Biogeochemistry is the study of the chemical processes that occur at Earth's surface. Living organisms influence this chemistry, and it is rapidly changing due to significant human impact.
 
-Biogeochemical processes are essential for the functioning of the critical zone (CZ). These processes include nutrient cycling, oxygen production, and climate regulation. Additionally, human activities affect these processes. For instance, burning fossil fuels releases carbon dioxide ($\ce{CO2$) into the atmosphere, contributing to climate change.
+Biogeochemical processes are essential for the functioning of the critical zone (CZ). These processes include nutrient cycling, oxygen production, and climate regulation. Additionally, human activities affect these processes. For instance, burning fossil fuels releases carbon dioxide ($\ce{CO2}$) into the atmosphere, contributing to climate change.
 
 Understanding biogeochemistry is crucial for determining how human actions impact the critical zone. This knowledge can inform the development of sustainable management practices that protect this vital area.
 
@@ -190,18 +190,18 @@ Here’s a general overview of how a t-test works:
 ```
 
 ```{dropdown} Example of t-test in critical zone sciences
-**Scenario:** CZ researchers are interested in studying the effects of different land-use practices on soil carbon content. They collect soil samples from two sites: one with a forested area (Site A) and another with an agricultural field (Site B). They measure soil carbon content (in g kg$^{-1}$ of soil) at multiple locations within each site.
+**Scenario:** CZ researchers are interested in studying the effects of different land-use practices on soil carbon content. They collect soil samples from two sites: one with a forested area (Site A) and another with an agricultural field (Site B). They measure soil carbon content (in $\pm{g kg-1}$ of soil) at multiple locations within each site.
 
 The researchers want to determine if there is a significant difference in the mean soil carbon content between Site A and Site B. They can use a two-sample t-test to compare the means of the two independent samples.
 
 Let's assume the following data:
 
 Site A (Forested area):
-Soil carbon content (g kg$^{-1}$): 28.5, 31.2, 25.7, 29.9, 27.1, 30.4
+Soil carbon content ($\pm{g kg-1}$): 28.5, 31.2, 25.7, 29.9, 27.1, 30.4
 Sample size, $n_A=6$
 
 Site B (Agricultural field):
-Soil carbon content (g kg$^{-1}$): 18.3, 20.1, 22.4, 19.7, 17.6, 21.2
+Soil carbon content ($\pm{g kg-1}$): 18.3, 20.1, 22.4, 19.7, 17.6, 21.2
 Sample size, $n_B=6$
 
 The researchers can perform a two-sample t-test to test the null hypothesis that there is no significant difference in the mean soil carbon content between the two sites against the alternative hypothesis that there is a significant difference.
@@ -210,9 +210,9 @@ The steps involved in performing the t-test would be:
 
 1. Calculate the sample means and standard deviations for each site. Data are shown above.
 
-Site A: Mean, $x_A = 28.8$ g kg$^{-1}$, Variance (SD), ${s_A}^2 = 4.77$
+Site A: Mean, $x_A = 28.8$ $\pm{g kg-1}$, Variance (SD), ${s_A}^2 = 4.77$
 
-Site B: Mean, $x_B = 19.88$ g kg$^{-1}$, Variance (SD), ${s_B}^2 = 3.61$
+Site B: Mean, $x_B = 19.88$ $\pm{g kg-1}$, Variance (SD), ${s_B}^2 = 3.61$
 
 2. Check the assumptions of normality and equal variances.
 3. Calculate the t-statistic and degrees of freedom.
@@ -252,7 +252,7 @@ Stable isotopes are especially useful for elements with large relative mass diff
 :name: stable-isotopes
 | Element | Isotope         | %   |
 |---------|-----------------|--------|
-| H       | $^1$ H  | $99.985$ |
+| H       | $\ce{^1 H}$  | $99.985$ |
 | H       | $^2$ H  | $0.015$  |
 | C       | $^{12}$ C | $98.9$   |
 | C       | $^{13}$ C | $1.1$    |
