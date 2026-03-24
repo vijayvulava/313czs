@@ -197,11 +197,11 @@ The researchers want to determine if there is a significant difference in the me
 Let's assume the following data:
 
 Site A (Forested area):
-Soil carbon content ($\pm{g kg-1}$): 28.5, 31.2, 25.7, 29.9, 27.1, 30.4
+Soil carbon content ($\pu{g kg-1}$): 28.5, 31.2, 25.7, 29.9, 27.1, 30.4
 Sample size, $n_A=6$
 
 Site B (Agricultural field):
-Soil carbon content ($\pm{g kg-1}$): 18.3, 20.1, 22.4, 19.7, 17.6, 21.2
+Soil carbon content ($\pu{g kg-1}$): 18.3, 20.1, 22.4, 19.7, 17.6, 21.2
 Sample size, $n_B=6$
 
 The researchers can perform a two-sample t-test to test the null hypothesis that there is no significant difference in the mean soil carbon content between the two sites against the alternative hypothesis that there is a significant difference.
@@ -210,9 +210,9 @@ The steps involved in performing the t-test would be:
 
 1. Calculate the sample means and standard deviations for each site. Data are shown above.
 
-Site A: Mean, $x_A = 28.8$ $\pm{g kg-1}$, Variance (SD), ${s_A}^2 = 4.77$
+Site A: Mean, $x_A = 28.8$ $\pu{g kg-1}$, Variance (SD), ${s_A}^2 = 4.77$
 
-Site B: Mean, $x_B = 19.88$ $\pm{g kg-1}$, Variance (SD), ${s_B}^2 = 3.61$
+Site B: Mean, $x_B = 19.88$ $\pu{g kg-1}$, Variance (SD), ${s_B}^2 = 3.61$
 
 2. Check the assumptions of normality and equal variances.
 3. Calculate the t-statistic and degrees of freedom.
@@ -268,9 +268,9 @@ Stable isotopes are especially useful for elements with large relative mass diff
 
 Isotopic fractionation is the partitioning of isotopes during physical (evaporation, condensation, melting, crystallization, absorption, and desorption, diffusion), chemical, or biological processes. This partitioning is proportional to the mass difference between the isotopes. The processes can be either equilibrium reactions, in which the forward and backward reaction rates are equal for each isotope, or kinetic reactions, which are unidirectional and depend on the masses and vibrational energies of the isotopes.
 
-```{dropdown} Example: Stable isotope fractionation of H$_2$O
+```{dropdown} Example: Stable isotope fractionation of $\ce{H2O}$
 
-During evaporation of H$_2$O in a closed system, six isotope combinations of H$_2$O are possible: $^1$H$_2 ^{16}$O, $^1$H$^2$H$^{16}$O, $^2$H$_2^{16}$O, $^1$H$_2^{18}$O, $^1$H$^2$H$^{18}$O, $^2$H$_2^{18}$O.
+During evaporation of $\ce{H2O}$ in a closed system, six isotope combinations of $\ce{H2O}$ are possible: $^1$H$_2 ^{16}$O, $^1$H$^2$H$^{16}$O, $^2$H$_2^{16}$O, $^1$H$_2^{18}$O, $^1$H$^2$H$^{18}$O, $^2$H$_2^{18}$O.
 
 As a result of these different stable isotope combinations, the molecular masses are $18$, $19$, $20$, $20$, $21$, and $22$ respectively. See the conceptualizations in the figure below.
 
@@ -322,7 +322,7 @@ Therefore, the fractionation factor is greater than 1. As the temperature increa
 
 ```
 
-In {numref}`oxygen-fractionation`, isotope fractionation of O as a function of temperature during evaporation of H$_2$O is shown. Paleoclimatologists use O ratios ($^{18}$O/$^{16}$O) from H$_2$O trapped in glaciers as well as the O absorbed in the shells of marine plants and animals to measure past temperatures and rainfall. In polar ice cores, the measurement is relatively simple: lower $^{18}$O in the frozen water indicates cooler temperatures.  In shells, the measurement is far more complicated because the biological and chemical processes that form the shells skew the O ratio in different ways depending on temperature.
+In {numref}`oxygen-fractionation`, isotope fractionation of O as a function of temperature during evaporation of $\ce{H2O}$ is shown. Paleoclimatologists use O ratios ($^{18}$O/$^{16}$O) from $\ce{H2O}$ trapped in glaciers as well as the O absorbed in the shells of marine plants and animals to measure past temperatures and rainfall. In polar ice cores, the measurement is relatively simple: lower $\ce{^{18}O}$ in the frozen water indicates cooler temperatures.  In shells, the measurement is far more complicated because the biological and chemical processes that form the shells skew the O ratio in different ways depending on temperature.
 
 ```{figure} https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/content-feature/paleoclimatology_oxygenbalance/images/oxygen_schematic.jpg?w=600&h=326&fit=crop&crop=faces%2Cfocalpoint
 ---
@@ -358,7 +358,7 @@ Where the isotopic ratio, $R$, has been defined in the previous section. Note th
 | $^{34}$ S/$^{32}$ S | CDT      | $4499.4$   |
 ```
 
-When $\delta$ values are negative, $R_\text{Sample} < R_\text{Standard}$ in Eqn. {eq}`delta`, therefore, the sample is considered depleted compared with the standard. Similarly, when $\delta$ values are positive, $R_\text{Sample} > R_\text{Standard}$, therefore, the sample is considered to be enriched compared to the standard.
+When $\delta$ values are negative, $R_\text{Sample} < R_\text{Standard}$ in Eqn. {eq}`delta`, therefore, the sample is considered depleted compared with the standard. Similarly, when $\delta$ values are positive, $R_\text{Sample} > R_\text{Standard}$; therefore, the sample is considered to be enriched compared to the standard.
 
 
 ```{dropdown} Example: $\delta$ notation 
