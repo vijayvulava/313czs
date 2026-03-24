@@ -2,7 +2,7 @@
 
 Biogeochemistry is the study of the chemical processes that occur at Earth's surface. Living organisms influence this chemistry, and it is rapidly changing due to significant human impact.
 
-Biogeochemical processes are essential for the functioning of the critical zone (CZ). These processes include nutrient cycling, oxygen production, and climate regulation. Additionally, human activities affect these processes. For instance, burning fossil fuels releases carbon dioxide (CO$_2$) into the atmosphere, contributing to climate change.
+Biogeochemical processes are essential for the functioning of the critical zone (CZ). These processes include nutrient cycling, oxygen production, and climate regulation. Additionally, human activities affect these processes. For instance, burning fossil fuels releases carbon dioxide ($\ce{CO2$) into the atmosphere, contributing to climate change.
 
 Understanding biogeochemistry is crucial for determining how human actions impact the critical zone. This knowledge can inform the development of sustainable management practices that protect this vital area.
 
@@ -28,7 +28,7 @@ frameborder="0" allowfullscreen class="video"></iframe>
 
 ## What is Biogeochemistry?
 
-The transport and transformation of chemicals in ecosystems, known as biogeochemical cycling, involve a wide range of interrelated physical, chemical, and biological processes. Biogeochemistry encompasses numerous chemical transformations and transport processes. Various transformations of nitrogen (N), sulfur (S), iron (Fe), manganese (Mn), carbon (C), phosphorus (P), and other chemicals occur in different critical zone (CZ) environments, driven by a combination of aerobic and anaerobic conditions.
+The transport and transformation of chemicals in ecosystems, known as biogeochemical cycling, involve a wide range of interrelated physical, chemical, and biological processes. Biogeochemistry encompasses numerous chemical transformations and transport processes. Various transformations of C, N, P, S, Fe, Mn, and other elements occur in different CZ environments, driven by a combination of aerobic and anaerobic conditions.
 
 The CZ can act as sources, sinks, or transformers of nutrients. Some transformations can create toxic conditions, such as hydrogen sulfide production, while others, like sedimentation, denitrification, and carbon sequestration, enhance water quality and contribute positively to the planet's carbon balance. Microbial populations adapted to anaerobic environments facilitate many transformations in the CZ, particularly within the N, S, and C cycles. In contrast, processes in the phosphorus cycle are primarily governed by chemical and physical mechanisms. Specific critical zones, such as wetlands, are often linked to adjacent ecosystems, exporting vital organic carbon to downstream aquatic environments.
 
@@ -65,7 +65,7 @@ Autochthonous inputs are crucial for the functioning and sustainability of natur
 
 ### Allochthonous Inputs
 
-Allochthonous inputs into a natural system refer to materials that originate outside that system and are transported in by external processes, such as water or wind. These inputs can consist of nutrients, energy, or other materials produced in different ecosystems or environments.
+Allochthonous inputs into a natural system are materials that originate outside the system and are transported into it by external processes, such as water or wind. These inputs can consist of nutrients, energy, or other materials produced in different ecosystems or environments.
 
 In aquatic ecosystems, allochthonous inputs may include organic matter and nutrients that enter the system through rivers or streams from surrounding terrestrial ecosystems. These inputs support the growth of aquatic organisms and enhance the ecosystem's overall productivity.
 
