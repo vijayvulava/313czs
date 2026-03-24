@@ -253,20 +253,20 @@ Stable isotopes are especially useful for elements with large relative mass diff
 | Element | Isotope         | %   |
 |---------|-----------------|--------|
 | H       | $\ce{^1 H}$  | $99.985$ |
-| H       | $^2$ H  | $0.015$  |
-| C       | $^{12}$ C | $98.9$   |
-| C       | $^{13}$ C | $1.1$    |
-| N       | $^{14}$ N | $99.63$  |
-| N       | $^{15}$ N | $0.37$   |
-| O       | $^{16}$ O | $99.762$ |
-| O       | $^{18}$ O | $0.2$    |
+| H       | $\ce{^2 H}$  | $0.015$  |
+| C       | $\ce{^{12} C}$ | $98.9$   |
+| C       | $\ce{^{13} C}$ | $1.1$    |
+| N       | $\ce{^{14} N}$ | $99.63$  |
+| N       | $\ce{^{15} N}$ | $0.37$   |
+| O       | $\ce{^{16} O}$ | $99.762$ |
+| O       | $\ce{^{17} O}$ | $0.2$    |
 
 ```
 
 
 ##### Stable Isotope Fractionation
 
-Isotopic fractionation is the partitioning of isotopes during physical (evaporation, condensation, melting, crystallization, absorption, and desorption, diffusion), chemical, or biological processes. This partitioning is proportional to the mass difference between the isotopes. The processes can be either equilibrium reactions, in which the forward and backward reaction rates are equal for each isotope, or kinetic reactions, which are unidirectional and depend on the masses of the isotopes and their vibrational energies.
+Isotopic fractionation is the partitioning of isotopes during physical (evaporation, condensation, melting, crystallization, absorption, and desorption, diffusion), chemical, or biological processes. This partitioning is proportional to the mass difference between the isotopes. The processes can be either equilibrium reactions, in which the forward and backward reaction rates are equal for each isotope, or kinetic reactions, which are unidirectional and depend on the masses and vibrational energies of the isotopes.
 
 ```{dropdown} Example: Stable isotope fractionation of H$_2$O
 
@@ -285,7 +285,7 @@ Why do stable isotopes fractionate? Isotopically lighter isotopes have higher ve
 \text{Kinetic Energy} = \frac{1}{2} mv^2
 ```
 
-Per Eqn. {eq}`kineticenergy`, isotopically lighter molecules with higher velocities and, therefore, a greater amount of kinetic energy. Consider the above water example. Since the lighter molecules have greater velocities, they preferentially escape into the vapor phase, enriching the lighter isotopes ( and ) relative to the liquid phase of water. In addition, atoms with greater mass form slightly stronger bonds, and the heavier isotope is generally enriched in the more condensed phase or larger molecule.
+Per Eqn. {eq}`kineticenergy`, isotopically lighter molecules with higher velocities and, therefore, a greater amount of kinetic energy. Consider the above example. Since the lighter molecules have greater velocities, they preferentially escape into the vapor phase, enriching the lighter isotopes ( and ) relative to the liquid phase of water. In addition, atoms with greater mass form slightly stronger bonds, and the heavier isotope is generally enriched in the more condensed phase or larger molecule.
 
 The partitioning of stable isotopes between two substances, $A$ and $B$, is described by the isotopic fractionation factor, $\alpha$. The fractionation factor is written as 
 
