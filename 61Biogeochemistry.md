@@ -270,7 +270,7 @@ Isotopic fractionation is the partitioning of isotopes during physical (evaporat
 
 ```{dropdown} Example: Stable isotope fractionation of $\ce{H2O}$
 
-During evaporation of $\ce{H2O}$ in a closed system, six isotope combinations of $\ce{H2O}$ are possible: $^1$H$_2 ^{16}$O, $^1$H$^2$H$^{16}$O, $^2$H$_2^{16}$O, $^1$H$_2^{18}$O, $^1$H$^2$H$^{18}$O, $^2$H$_2^{18}$O.
+During evaporation of $\ce{H2O}$ in a closed system, six isotope combinations of $\ce{H2O}$ are possible: $\ce{^1H2^{16}O}, \ce{^1H^2H^{16}O}, \ce{^2H2^{16}O}, \ce{^1H2^{18}O}, \ce{^1H^2H^{18}O}, \ce{^2H2^{18}O}$.
 
 As a result of these different stable isotope combinations, the molecular masses are $18$, $19$, $20$, $20$, $21$, and $22$ respectively. See the conceptualizations in the figure below.
 
@@ -285,7 +285,7 @@ Why do stable isotopes fractionate? Isotopically lighter isotopes have higher ve
 \text{Kinetic Energy} = \frac{1}{2} mv^2
 ```
 
-Per Eqn. {eq}`kineticenergy`, isotopically lighter molecules with higher velocities and, therefore, a greater amount of kinetic energy. Consider the above example. Since the lighter molecules have greater velocities, they preferentially escape into the vapor phase, enriching the lighter isotopes ( and ) relative to the liquid phase of water. In addition, atoms with greater mass form slightly stronger bonds, and the heavier isotope is generally enriched in the more condensed phase or larger molecule.
+Per Eqn. {eq}`kineticenergy`, isotopically lighter molecules with higher velocities and, therefore, a greater amount of kinetic energy. Consider the above example. Since the lighter molecules have greater velocities, they preferentially escape into the vapor phase, enriching the lighter isotopes ($\ce{^1H}$ and $\ce{^{16}O}$) relative to the liquid phase of water. In addition, atoms with greater mass form slightly stronger bonds, and the heavier isotope is generally enriched in the more condensed phase or larger molecule.
 
 The partitioning of stable isotopes between two substances, $A$ and $B$, is described by the isotopic fractionation factor, $\alpha$. The fractionation factor is written as 
 
@@ -300,36 +300,37 @@ where $R$ is the ratio of heavy to light isotope abundance (e.g., $^2$ H/$^1$ H,
 
 Consider the evaporation of water. We can set the fractionation ratio and factor as follows:
 
-$$R = \frac{^{18}O}{^{16}O}
-$$ 
+$$R = \frac{\ce{^{18}O}}{\ce{^{16}O}}
+$$
+
 We can calculate $\alpha$ as
 
-$$\alpha = \frac{^{18}O/^{16}O_{\text{(liquid)}}}{^{18}O/^{16}O_{\text{(vapor)}}}
+$$\alpha = \frac{\ce{^{18}O}/\ce{^{16}O}_{\text{(liquid)}}}{\ce{^{18}O}/\ce{^{16}O}_{\text{(vapor)}}}
 $$
 
-Since $^{16}$O is enriched in the vapor phase relative to the liquid,
+Since $\ce{^{16}O}$ is enriched in the vapor phase relative to the liquid,
 
 $$
-[^{18}O]_{\text{vapor}} > [^{16}O]_{\text{liquid}}
+[\ce{^{18}O}]_{\text{vapor}} > [\ce{^{16}O}]_{\text{liquid}}
 $$
 
-Conversely, $^{18}$O is enriched in the liquid relative to the vapor,
+Conversely, $\ce{^{18}O}$ is enriched in the liquid relative to the vapor,
 
 $$
-[^{18}O]_{\text{liquid}} > [^{18}O]_{\text{vapor}}$$
+[\ce{^{18}O}]_{\text{liquid}} > [\ce{^{18}O}]_{\text{vapor}}$$
 
 Therefore, the fractionation factor is greater than 1. As the temperature increases, the fractionation factor decreases and approaches 1 at infinite temperature.
 
 ```
 
-In {numref}`oxygen-fractionation`, isotope fractionation of O as a function of temperature during evaporation of $\ce{H2O}$ is shown. Paleoclimatologists use O ratios ($^{18}$O/$^{16}$O) from $\ce{H2O}$ trapped in glaciers as well as the O absorbed in the shells of marine plants and animals to measure past temperatures and rainfall. In polar ice cores, the measurement is relatively simple: lower $\ce{^{18}O}$ in the frozen water indicates cooler temperatures.  In shells, the measurement is far more complicated because the biological and chemical processes that form the shells skew the O ratio in different ways depending on temperature.
+In {numref}`oxygen-fractionation`, isotope fractionation of $\ce{O}$ as a function of temperature during evaporation of $\ce{H2O}$ is shown. Paleoclimatologists use $\ce{O}$ ratios ($\ce{^{18}O}$/$\ce{^{16}O}$) from $\ce{H2O}$ trapped in glaciers as well as the $\ce{O}$ absorbed in the shells of marine plants and animals to measure past temperatures and rainfall. In polar ice cores, the measurement is relatively simple: lower $\ce{^{18}O}$ levels in the frozen water indicate cooler temperatures.  In shells, the measurement is far more complicated because the biological and chemical processes that form the shells skew the $\ce{O}$ ratio in different ways depending on temperature.
 
 ```{figure} https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/content-feature/paleoclimatology_oxygenbalance/images/oxygen_schematic.jpg?w=600&h=326&fit=crop&crop=faces%2Cfocalpoint
 ---
 name: oxygen-fractionation
 figclass: margin-caption
 ---
-Water vapor gradually loses $^{18}$O as it travels from the equator to the poles. Because water molecules with heavy $^{18}$O isotopes in them condense more quickly than normal water molecules, the air becomes progressively depleted in $^{18}$O as it travels to high latitudes and becomes colder and drier. The snow that forms most glacial ice is also depleted in $^{18}$O. Image source: [Paleoclimatology: The Oxygen Balance](https://science.nasa.gov/earth/earth-observatory/paleoclimatology-the-oxygen-balance/)
+Water vapor gradually loses $\ce{^{18}O}$ as it travels from the equator to the poles. Because water molecules with heavy $\ce{^{18}O}$ isotopes in them condense more quickly than normal water molecules, the air becomes progressively depleted in $\ce{^{18}O}$ as it travels to high latitudes and becomes colder and drier. The snow that forms most glacial ice is also depleted in $\ce{^{18}O}$. Image source: [Paleoclimatology: The Oxygen Balance](https://science.nasa.gov/earth/earth-observatory/paleoclimatology-the-oxygen-balance/)
 ```
 
 
@@ -350,12 +351,12 @@ Where the isotopic ratio, $R$, has been defined in the previous section. Note th
 :name: isotopestandards
 | Isotope Ratio   | Standard | $R \times 10^{-5}$ |
 |--------------|----------|----------: |
-| $^{2}$ H/$^{1}$ H   | V-SMOW   | $15.575$ |
-| $^{13}$ C/$^{12}$ C | PDB      | $1123.75$   |
-| $^{18}$ O/$^{16}$ O | V-SMOW   | $200.52$    |
-| $^{18}$ O/$^{16}$ O | PDB      | $206.72$   |
-| $^{15}$ N/$^{14}$ N | NBS-14   | $367.6 $   |
-| $^{34}$ S/$^{32}$ S | CDT      | $4499.4$   |
+| $\ce{^2 H}$/$\ce{^1 H}$   | V-SMOW   | $15.575$ |
+| $\ce{^{13} C}$/$\ce{^{12} C}$ | PDB      | $1123.75$   |
+| $\ce{^{18} O}$/$\ce{^{16} O}$ | V-SMOW   | $200.52$    |
+| $\ce{^{18} O}$/$\ce{^{16} O}$ | PDB      | $206.72$   |
+| $\ce{^{15} N}$/$\ce{^{14} N}$ | NBS-14   | $367.6 $   |
+| $\ce{^{34} S}$/$\ce{^{32} S}$ | CDT      | $4499.4$   |
 ```
 
 When $\delta$ values are negative, $R_\text{Sample} < R_\text{Standard}$ in Eqn. {eq}`delta`, therefore, the sample is considered depleted compared with the standard. Similarly, when $\delta$ values are positive, $R_\text{Sample} > R_\text{Standard}$; therefore, the sample is considered to be enriched compared to the standard.
@@ -363,17 +364,13 @@ When $\delta$ values are negative, $R_\text{Sample} < R_\text{Standard}$ in Eqn.
 
 ```{dropdown} Example: $\delta$ notation 
 
-A rainwater sample collected in Boston, Massachusetts, has an $^{18}$ O/$^{16}$ O ratio of $0.0019750$. Calculate $\delta$ for this rainwater sample.
+A rainwater sample collected in Boston, Massachusetts, has an $\ce{^{18}O}$/$\ce{^{16}O}$ ratio of $0.0019750$. Calculate $\delta$ for this rainwater sample.
 
-From {numref}`isotopestandards`, we can read the isotopic ratio of $^{18}$ O/$^{16}$ O in V-SMOW to be $0.0020052$. Substitute values in Eqn. {eq}`delta` as follows: 
+From {numref}`isotopestandards`, we can read the isotopic ratio of $\ce{^{18} O}$/$\ce{^{16} O}$ in V-SMOW to be $0.0020052$. Substitute values in Eqn. {eq}`delta` as follows: 
 
 $$\begin{align}
-\delta &=  
-\left(\frac{^{18}\text{O}/^{16}\text{O}_\text{Sample}}{^{18}\text{O}/^{16}\text{O}_\text{Standard}} - 1\right) \times 1000\\
-&= \left(\frac{0.0019750}{0.0020052} - 1\right) \times 1000\\
-&= -15.1
-\end{align}
-$$
+\delta &=  \left(\frac{\ce{^{18}O}/\ce{^{16}O}_\text{Sample}}{\ce{^{18}O}/\ce{^{16}O}_\text{Standard}} - 1\right) \times 1000\\ &=\left(\frac{0.0019750}{0.0020052} - 1\right) \times 1000 = \pu{-15.1 ‰} 
+\end{align}$$
 
 Since this final value (in ‰) is negative, the sample is isotopically lighter than the standard.
 ```
