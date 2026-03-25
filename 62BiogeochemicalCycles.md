@@ -35,7 +35,7 @@ The C cycle is most easily studied as two interconnected subcycles: one involvin
 
 ### The Biological Carbon Cycle
 
-Living organisms are interconnected in numerous ways, including across different ecosystems. A prime example of this connection is the exchange of C between heterotrophs and autotrophs, facilitated by atmospheric carbon dioxide (CO$_2$). Autotrophs utilize $\ce{CO2}$ as a fundamental building block to create multi-carbon, high-energy compounds like glucose. These organisms harness energy from the Sun to form covalent bonds that link carbon atoms, storing this energy for later use in processes such as respiration. 
+Living organisms are interconnected in numerous ways, including across different ecosystems. A prime example of this connection is the exchange of C between heterotrophs and autotrophs, facilitated by atmospheric $\ce{CO2}$. Autotrophs utilize $\ce{CO2}$ as a fundamental building block to create multi-carbon, high-energy compounds like glucose. These organisms harness energy from the Sun to form covalent bonds that link carbon atoms, storing this energy for later use in processes such as respiration. 
 
 Most terrestrial autotrophs directly obtain $\ce{CO2}$ from the atmosphere, while marine autotrophs acquire it in dissolved forms, such as bicarbonate ($\ce{HCO3-}$). Regardless of the method of acquisition, a byproduct of carbon fixation in these organic compounds is $\ce{O2}$. Photosynthetic organisms are responsible for maintaining approximately 21% of the oxygen content in the atmosphere that we observe today.
 
