@@ -8,7 +8,6 @@ Understanding biogeochemistry is crucial for determining how human actions impac
 
 Here are some specific examples of the importance of biogeochemistry for the critical zone:
 - Nutrients are cycled through the critical zone by biogeochemical processes.
-- Water, another essential element for life, is moved throughout the critical zone.
 - Photosynthesis is the process by which plants convert sunlight into energy, releasing oxygen as a byproduct into the atmosphere.
 - Human activities, such as agriculture, deforestation, and climate change, can disrupt biogeochemical processes.
 
