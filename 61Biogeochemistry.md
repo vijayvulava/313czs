@@ -233,12 +233,18 @@ The steps involved in performing the t-test would be:
 
 1. Calculate the sample means and standard deviations for each site. Data are shown above.
 
+<<<<<<< HEAD
 
 Site A: Mean, $x_A = 28.8$ $\pu{g kg-1}$, Variance (SD), ${s_A}^2 = 4.77$
 
 
 Site B: Mean, $x_B = 19.88$ $\pu{g kg-1}$, Variance (SD), ${s_B}^2 = 3.61$
 
+=======
+Site A: Mean, $x_A = 28.8$ $\pu{g kg-1}$, Variance (SD), ${s_A}^2 = 4.77$
+
+Site B: Mean, $x_B = 19.88$ $\pu{g kg-1}$, Variance (SD), ${s_B}^2 = 3.61$
+>>>>>>> 2676463f7ef2cf2d40dd2b7cf0484571b2c98f22
 
 2. Check the assumptions of normality and equal variances.
 
@@ -249,11 +255,16 @@ $$
 \begin{align}
 
 t &=& \frac{x_A-x_B}{\sqrt{{s_A}^2/n_A + {s_B}^2/n_B}}\\
+<<<<<<< HEAD
 
  &=& \frac{28.8-19.88}{\sqrt{4.77/6 + 3.61/6}}\\
 
  &=& 6.38
 
+=======
+ &=& \frac{28.8-19.88}{\sqrt{4.77/6 + 3.61/6}}\\
+ &=& 6.38
+>>>>>>> 2676463f7ef2cf2d40dd2b7cf0484571b2c98f22
 \end{align}
 $$
 
@@ -276,9 +287,14 @@ The calculated t-statistic exceeds the critical value; the researchers can concl
 
 ```
 
+<<<<<<< HEAD
 
 See [An Introduction to t Tests | Definitions, Formula and Examples (scribbr.com)](https://www.scribbr.com/statistics/t-test/)
 
+=======
+
+See [An Introduction to t Tests | Definitions, Formula and Examples (scribbr.com)](https://www.scribbr.com/statistics/t-test/)
+>>>>>>> 2676463f7ef2cf2d40dd2b7cf0484571b2c98f22
   
 
 #### Stable Isotope Ratios
@@ -293,6 +309,7 @@ Stable isotopes are especially useful for elements with large relative mass diff
 :name: stable-isotopes
 
 | Element | Isotope         | %   |
+<<<<<<< HEAD
 
 |---------|-----------------|--------|
 
@@ -312,6 +329,17 @@ Stable isotopes are especially useful for elements with large relative mass diff
 
 | O       | $\ce{^{17} O}$ | $0.2$    |
 
+=======
+|---------|-----------------|--------|
+| H       | $\ce{^1 H}$  | $99.985$ |
+| H       | $\ce{^2 H}$  | $0.015$  |
+| C       | $\ce{^{12} C}$ | $98.9$   |
+| C       | $\ce{^{13} C}$ | $1.1$    |
+| N       | $\ce{^{14} N}$ | $99.63$  |
+| N       | $\ce{^{15} N}$ | $0.37$   |
+| O       | $\ce{^{16} O}$ | $99.762$ |
+| O       | $\ce{^{17} O}$ | $0.2$    |
+>>>>>>> 2676463f7ef2cf2d40dd2b7cf0484571b2c98f22
 
 ```
 
@@ -320,6 +348,7 @@ Stable isotopes are especially useful for elements with large relative mass diff
 Isotopic fractionation is the partitioning of isotopes during physical (evaporation, condensation, melting, crystallization, absorption, and desorption, diffusion), chemical, or biological processes. This partitioning is proportional to the mass difference between the isotopes. The processes can be either equilibrium reactions, in which the forward and backward reaction rates are equal for each isotope, or kinetic reactions, which are unidirectional and depend on the masses and vibrational energies of the isotopes.
 
 ```{dropdown} Example: Stable isotope fractionation of $\ce{H2O}$
+<<<<<<< HEAD
 
 
 During evaporation of $\ce{H2O}$ in a closed system, six isotope combinations of $\ce{H2O}$ are possible: $\ce{^1H2^{16}O}, \ce{^1H^2H^{16}O}, \ce{^2H2^{16}O}, \ce{^1H2^{18}O}, \ce{^1H^2H^{18}O}, \ce{^2H2^{18}O}$.
@@ -328,6 +357,13 @@ During evaporation of $\ce{H2O}$ in a closed system, six isotope combinations o
 As a result of these different stable isotope combinations, the molecular masses are $18$, $19$, $20$, $20$, $21$, and $22$ respectively. See the conceptualizations in the figure below.
 
   
+=======
+
+During evaporation of $\ce{H2O}$ in a closed system, six isotope combinations of $\ce{H2O}$ are possible: $\ce{^1H2^{16}O}, \ce{^1H^2H^{16}O}, \ce{^2H2^{16}O}, \ce{^1H2^{18}O}, \ce{^1H^2H^{18}O}, \ce{^2H2^{18}O}$.
+
+As a result of these different stable isotope combinations, the molecular masses are $18$, $19$, $20$, $20$, $21$, and $22$ respectively. See the conceptualizations in the figure below.
+
+>>>>>>> 2676463f7ef2cf2d40dd2b7cf0484571b2c98f22
 
 ![# Water Isotopes Diagram - USGS](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/Fig%201.Isotopes.web_.jpg)
 
@@ -438,6 +474,7 @@ Where the isotopic ratio, $R$, has been defined in the previous section. Note th
 :name: isotopestandards
 
 | Isotope Ratio   | Standard | $R \times 10^{-5}$ |
+<<<<<<< HEAD
 
 |--------------|----------|----------: |
 
@@ -451,6 +488,14 @@ Where the isotopic ratio, $R$, has been defined in the previous section. Note th
 
 | $\ce{^{15} N}$/$\ce{^{14} N}$ | NBS-14   | $367.6 $   |
 
+=======
+|--------------|----------|----------: |
+| $\ce{^2 H}$/$\ce{^1 H}$   | V-SMOW   | $15.575$ |
+| $\ce{^{13} C}$/$\ce{^{12} C}$ | PDB      | $1123.75$   |
+| $\ce{^{18} O}$/$\ce{^{16} O}$ | V-SMOW   | $200.52$    |
+| $\ce{^{18} O}$/$\ce{^{16} O}$ | PDB      | $206.72$   |
+| $\ce{^{15} N}$/$\ce{^{14} N}$ | NBS-14   | $367.6 $   |
+>>>>>>> 2676463f7ef2cf2d40dd2b7cf0484571b2c98f22
 | $\ce{^{34} S}$/$\ce{^{32} S}$ | CDT      | $4499.4$   |
 
 ```
@@ -469,6 +514,7 @@ From {numref}`isotopestandards`, we can read the isotopic ratio of $\ce{^{18} O}
   
 
 $$\begin{align}
+<<<<<<< HEAD
 
 \delta &=  \left(\frac{\ce{^{18}O}/\ce{^{16}O}_\text{Sample}}{\ce{^{18}O}/\ce{^{16}O}_\text{Standard}} - 1\right) \times 1000\\ &=\left(\frac{0.0019750}{0.0020052} - 1\right) \times 1000 = \pu{-15.1 ‰}
 
@@ -478,6 +524,15 @@ $$\begin{align}
 
 Since this final value (in ‰) is negative, the sample is isotopically lighter than the standard.
 
+=======
+\delta &=  \left(\frac{\ce{^{18}O}/\ce{^{16}O}_\text{Sample}}{\ce{^{18}O}/\ce{^{16}O}_\text{Standard}} - 1\right) \times 1000\\ &=\left(\frac{0.0019750}{0.0020052} - 1\right) \times 1000 = \pu{-15.1 ‰}
+\end{align}$$
+
+  
+
+Since this final value (in ‰) is negative, the sample is isotopically lighter than the standard.
+
+>>>>>>> 2676463f7ef2cf2d40dd2b7cf0484571b2c98f22
 ```
 
 
