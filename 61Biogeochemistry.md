@@ -407,18 +407,11 @@ A rainwater sample collected in Boston, Massachusetts, has an $\ce{^{18}O}$/$\ce
 
 From {numref}`isotopestandards`, we can read the isotopic ratio of $\ce{^{18} O}$/$\ce{^{16} O}$ in V-SMOW to be $0.0020052$. Substitute values in Eqn. {eq}`delta` as follows:
 
-
-$$\begin{align}
-
+$$
+\begin{align}
 \delta &=  \left(\frac{\ce{^{18}O}/\ce{^{16}O}_\text{Sample}}{\ce{^{18}O}/\ce{^{16}O}_\text{Standard}} - 1\right) \times 1000\\ &=\left(\frac{0.0019750}{0.0020052} - 1\right) \times 1000 = \pu{-15.1 ‰}
-
-\end{align}$$
-
-
-Since this final value (in ‰) is negative, the sample is isotopically lighter than the standard.
-
-\delta &=  \left(\frac{\ce{^{18}O}/\ce{^{16}O}_\text{Sample}}{\ce{^{18}O}/\ce{^{16}O}_\text{Standard}} - 1\right) \times 1000\\ &=\left(\frac{0.0019750}{0.0020052} - 1\right) \times 1000 = \pu{-15.1 ‰}
-\end{align}$$
+\end{align}
+$$
 
 Since this final value (in ‰) is negative, the sample is isotopically lighter than the standard.
 
