@@ -42,12 +42,10 @@ frameborder="0" allowfullscreen class="video"></iframe>
 Biogeochemistry helps us understand how the Earth works. It helps us understand how the Earth's systems are interconnected and how they are affected by human activity. Biogeochemistry is also vital for developing sustainable management practices.
 
 ```{figure} https://seaborg.llnl.gov/sites/seaborg/files/2020-05/actinide-transport-field-sites.png
-
 ---
 name: biogeochemistry
 figclass: margin-caption
 ---
-
 Biogeochemistry occurs at many interfaces and requires a systems approach to study.  
 
 Image source: [BioGeoChemistry at Interfaces Science Focus Area  (energy.gov)](https://ess.science.energy.gov/llnl-actinides-sfa/)
@@ -107,12 +105,10 @@ PCA results are often displayed through biplots, which combine two types of plot
 By combining these two plots, a PCA biplot allows you to visualize both the relationships among the data points and those among the variables. Here's an example:
 
 ```{figure} https://statisticsglobe.com/wp-content/uploads/2023/03/pca_exp_app4.png
-
 ---
 name: pca-biplot
 figclass: margin-caption
 ---
-
 Example results of Principal Component Analysis in the form of a biplot.
 
 Image source: [Biplot for PCA Explained](https://statisticsglobe.com/biplot-pca-explained)
@@ -303,13 +299,11 @@ During evaporation of $\ce{H2O}$ in a closed system, six isotope combinations o
 
 As a result of these different stable isotope combinations, the molecular masses are $18$, $19$, $20$, $20$, $21$, and $22$ respectively. See the conceptualizations in the figure below.
 
-
 ![# Water Isotopes Diagram - USGS](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/Fig%201.Isotopes.web_.jpg)
 
 ```
 
 Why do stable isotopes fractionate? Isotopically lighter isotopes have higher velocities than heavier isotopes. From basic physics, the kinetic energy of a particle can be calculated using the following formula:
-
 
 ```{math}
 :label: kineticenergy
@@ -320,7 +314,6 @@ Per Eqn. {eq}`kineticenergy`, isotopically lighter molecules with higher velocit
 
 
 The partitioning of stable isotopes between two substances, $A$ and $B$, is described by the isotopic fractionation factor, $\alpha$. The fractionation factor is written as
-
 
 ```{math}
 :label: alpha
@@ -362,12 +355,10 @@ In Fig. {figure}`oxygen-fractionation`, isotope fractionation of $\ce{O}$ as a f
 
 
 ```{figure} https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/content-feature/paleoclimatology_oxygenbalance/images/oxygen_schematic.jpg?w=600&h=326&fit=crop&crop=faces%2Cfocalpoint
-
 ---
 name: oxygen-fractionation
 figclass: margin-caption
 ---
-
 Water vapor gradually loses $\ce{^{18}O}$ as it travels from the equator to the poles. Because water molecules with heavy $\ce{^{18}O}$ isotopes in them condense more quickly than normal water molecules, the air becomes progressively depleted in $\ce{^{18}O}$ as it travels to high latitudes and becomes colder and drier. The snow that forms most glacial ice is also depleted in $\ce{^{18}O}$. Image source: [Paleoclimatology: The Oxygen Balance](https://science.nasa.gov/earth/earth-observatory/paleoclimatology-the-oxygen-balance/)
 
 ```
