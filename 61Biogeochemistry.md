@@ -201,7 +201,7 @@ Here’s a general overview of how a t-test works:
 
 ```{dropdown} Example of t-test in critical zone sciences
 
-**Scenario:** CZ researchers are interested in studying the effects of different land-use practices on soil carbon content. They collect soil samples from two sites: one with a forested area (Site A) and another with an agricultural field (Site B). They measure soil carbon content (in $\pm{g kg-1}$ of soil) at multiple locations within each site.
+**Scenario:** CZ researchers are interested in studying the effects of different land-use practices on soil carbon content. They collect soil samples from two sites: one with a forested area (Site A) and another with an agricultural field (Site B). They measure soil carbon content (in $\pu{g kg-1}$ of soil) at multiple locations within each site.
 
 
 The researchers want to determine if there is a significant difference in the mean soil carbon content between Site A and Site B. They can use a two-sample t-test to compare the means of the two independent samples.
@@ -211,14 +211,14 @@ Let's assume the following data:
  
 Site A (Forested area):
 
-Soil carbon content ($\pu{g kg-1}$): 28.5, 31.2, 25.7, 29.9, 27.1, 30.4
+Soil carbon content ($\pu{g kg-1}$): $28.5, 31.2, 25.7, 29.9, 27.1, 30.4$
 
 Sample size, $n_A=6$
  
 
 Site B (Agricultural field):
 
-Soil carbon content ($\pu{g kg-1}$): 18.3, 20.1, 22.4, 19.7, 17.6, 21.2
+Soil carbon content ($\pu{g kg-1}$): $18.3, 20.1, 22.4, 19.7, 17.6, 21.2$
 
 Sample size, $n_B=6$
   
@@ -303,10 +303,6 @@ During evaporation of $\ce{H2O}$ in a closed system, six isotope combinations o
 
 As a result of these different stable isotope combinations, the molecular masses are $18$, $19$, $20$, $20$, $21$, and $22$ respectively. See the conceptualizations in the figure below.
 
-During evaporation of $\ce{H2O}$ in a closed system, six isotope combinations of $\ce{H2O}$ are possible: $\ce{^1H2^{16}O}, \ce{^1H^2H^{16}O}, \ce{^2H2^{16}O}, \ce{^1H2^{18}O}, \ce{^1H^2H^{18}O}, \ce{^2H2^{18}O}$.
-
-As a result of these different stable isotope combinations, the molecular masses are $18$, $19$, $20$, $20$, $21$, and $22$ respectively. See the conceptualizations in the figure below.
-
 
 ![# Water Isotopes Diagram - USGS](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/Fig%201.Isotopes.web_.jpg)
 
@@ -362,7 +358,7 @@ Therefore, the fractionation factor is greater than 1. As the temperature increa
 ```
 
 
-In {numref}`oxygen-fractionation`, isotope fractionation of $\ce{O}$ as a function of temperature during evaporation of $\ce{H2O}$ is shown. Paleoclimatologists use $\ce{O}$ ratios ($\ce{^{18}O}$/$\ce{^{16}O}$) from $\ce{H2O}$ trapped in glaciers as well as the $\ce{O}$ absorbed in the shells of marine plants and animals to measure past temperatures and rainfall. In polar ice cores, the measurement is relatively simple: lower $\ce{^{18}O}$ levels in the frozen water indicate cooler temperatures.  In shells, the measurement is far more complicated because the biological and chemical processes that form the shells skew the $\ce{O}$ ratio in different ways depending on temperature.
+In Fig. {figure}`oxygen-fractionation`, isotope fractionation of $\ce{O}$ as a function of temperature during evaporation of $\ce{H2O}$ is shown. Paleoclimatologists use $\ce{O}$ ratios ($\ce{^{18}O}$/$\ce{^{16}O}$) from $\ce{H2O}$ trapped in glaciers as well as the $\ce{O}$ absorbed in the shells of marine plants and animals to measure past temperatures and rainfall. In polar ice cores, the measurement is relatively simple: lower $\ce{^{18}O}$ levels in the frozen water indicate cooler temperatures.  In shells, the measurement is far more complicated because the biological and chemical processes that form the shells skew the $\ce{O}$ ratio in different ways depending on temperature.
 
 
 ```{figure} https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/content-feature/paleoclimatology_oxygenbalance/images/oxygen_schematic.jpg?w=600&h=326&fit=crop&crop=faces%2Cfocalpoint
@@ -376,25 +372,20 @@ Water vapor gradually loses $\ce{^{18}O}$ as it travels from the equator to the 
 
 ```
 
-
 ##### The $\delta$ notation
-
 
 $R$ values for environmental samples have to be compared with a fixed value (or a standard) to know if that sample is enriched or depleted compared to the standard.
 
-
 Since isotopic variations between samples are minimal, we express isotopic ratios using delta ($\delta$) notation. This value is determined by comparing the isotopic ratio ($R$) of a sample with that of a standard and is calculated as follows:
-
 
 ```{math}
 :label: delta
 \delta = \left(\frac{R_\text{Sample}}{R_\text{Standard}} - 1\right) \times 1000
 ```
 
-Where the isotopic ratio, $R$, has been defined in the previous section. Note that the ratio is multiplied by a thousand and is expressed in "parts per thousand" or permille or permil or the symbol, ‰. As seen in Eqn. {eq}`delta`, $R_\text{Standard}$ is required for the element of interest. Standards for the most common elements of interest have been adopted worldwide for research purposes and shown in {numref}`isotopestandards`. Typically, V-SMOW (Vienna standard mean ocean water) and PDB (Pee Dee belemnite) are most commonly used for H, O, and C ratios.
+Where the isotopic ratio, $R$, has been defined in the previous section. Note that the ratio is multiplied by a thousand and is expressed in "parts per thousand" or permille or permil or the symbol, ‰. As seen in Eqn. {eq}`delta`, $R_\text{Standard}$ is required for the element of interest. Standards for the most common elements of interest have been adopted worldwide for research purposes and shown in {table}`isotopestandards`. Typically, V-SMOW (Vienna standard mean ocean water) and PDB (Pee Dee belemnite) are most commonly used for H, O, and C ratios.
 
 ```{table} Isotope ratios and standards for most commonly-used elements in environmental geosciences.
-
 :name: isotopestandards
 
 | Isotope Ratio   | Standard | $R \times 10^{-5}$ |
@@ -405,7 +396,6 @@ Where the isotopic ratio, $R$, has been defined in the previous section. Note th
 | $\ce{^{18} O}$/$\ce{^{16} O}$ | PDB      | $206.72$   |
 | $\ce{^{15} N}$/$\ce{^{14} N}$ | NBS-14   | $367.6 $   |
 | $\ce{^{34} S}$/$\ce{^{32} S}$ | CDT      | $4499.4$   |
-
 ```
 
 When $\delta$ values are negative, $R_\text{Sample} < R_\text{Standard}$ in Eqn. {eq}`delta`, therefore, the sample is considered depleted compared with the standard. Similarly, when $\delta$ values are positive, $R_\text{Sample} > R_\text{Standard}$; therefore, the sample is considered to be enriched compared to the standard.
