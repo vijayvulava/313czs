@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13SystemsOverview.md",
-                "mode": "source",
-                "source": false
+                "file": "61Biogeochemistry.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "13SystemsOverview"
+              "title": "61Biogeochemistry"
             }
           }
         ],
@@ -245,17 +245,17 @@
   },
   "active": "8e09496295981019",
   "lastOpenFiles": [
-    "42CarbonBudget.md",
     "52WaterBalanceImpacts.md",
-    "51WaterBalanceTree.md",
     "61Biogeochemistry.md",
+    "13SystemsOverview.md",
+    "42CarbonBudget.md",
+    "51WaterBalanceTree.md",
     "41EnergyBudget.md",
     "assets/Rassmussen_EEMT.png",
     "assets/nph16757-fig-0001-m.jpg",
     "32LandformsRemoteSensing.md",
     "31Geomorphology.md",
     "21BasicToolsAnalysis.md",
-    "13SystemsOverview.md",
     "12SoilOverview.md",
     "assets/oki-hydro-cycle.png",
     "62BiogeochemicalCycles.md",
