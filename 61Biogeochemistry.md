@@ -21,11 +21,8 @@ In this section, you will explore:
 
   
 <div class="container">
-
 <iframe src="https://www.youtube.com/embed/aU2rYMvYUWs"
-
 frameborder="0" allowfullscreen class="video"></iframe>
-
 </div>
 
 
@@ -233,18 +230,9 @@ The steps involved in performing the t-test would be:
 
 1. Calculate the sample means and standard deviations for each site. Data are shown above.
 
-<<<<<<< HEAD
-
-Site A: Mean, $x_A = 28.8$ $\pu{g kg-1}$, Variance (SD), ${s_A}^2 = 4.77$
-
-
-Site B: Mean, $x_B = 19.88$ $\pu{g kg-1}$, Variance (SD), ${s_B}^2 = 3.61$
-
-=======
 Site A: Mean, $x_A = 28.8$ $\pu{g kg-1}$, Variance (SD), ${s_A}^2 = 4.77$
 
 Site B: Mean, $x_B = 19.88$ $\pu{g kg-1}$, Variance (SD), ${s_B}^2 = 3.61$
->>>>>>> 2676463f7ef2cf2d40dd2b7cf0484571b2c98f22
 
 2. Check the assumptions of normality and equal variances.
 
@@ -253,24 +241,16 @@ Site B: Mean, $x_B = 19.88$ $\pu{g kg-1}$, Variance (SD), ${s_B}^2 = 3.61$
 
 $$
 \begin{align}
-
 t &=& \frac{x_A-x_B}{\sqrt{{s_A}^2/n_A + {s_B}^2/n_B}}\\
-<<<<<<< HEAD
-
- &=& \frac{28.8-19.88}{\sqrt{4.77/6 + 3.61/6}}\\
-
- &=& 6.38
-
-=======
  &=& \frac{28.8-19.88}{\sqrt{4.77/6 + 3.61/6}}\\
  &=& 6.38
->>>>>>> 2676463f7ef2cf2d40dd2b7cf0484571b2c98f22
+ &=& \frac{28.8-19.88}{\sqrt{4.77/6 + 3.61/6}}\\
+ &=& 6.38
 \end{align}
 $$
 
 
 The degrees of freedom (df) for this two-sample t-test would be calculated as:
-
 
 $$
 \text{df} = n_A + n_B - 2 = 6 + 6 - 2 = 10
@@ -287,14 +267,7 @@ The calculated t-statistic exceeds the critical value; the researchers can concl
 
 ```
 
-<<<<<<< HEAD
-
 See [An Introduction to t Tests | Definitions, Formula and Examples (scribbr.com)](https://www.scribbr.com/statistics/t-test/)
-
-=======
-
-See [An Introduction to t Tests | Definitions, Formula and Examples (scribbr.com)](https://www.scribbr.com/statistics/t-test/)
->>>>>>> 2676463f7ef2cf2d40dd2b7cf0484571b2c98f22
   
 
 #### Stable Isotope Ratios
@@ -305,31 +278,9 @@ Stable isotopes do not spontaneously break down to form other isotopes. Because 
 Stable isotopes are especially useful for elements with large relative mass differences. Therefore, most elements used for stable isotope studies have a low atomic number and atomic mass ({numref}`stable-isotopes`). For isotopes with an atomic mass of greater than $40$, the relative mass differences are too small for any measurable isotopic fractionation. Most elements used in radiometric dating have high atomic mass, and mass fractionation is insignificant.
 
 ```{table} Distribution of stable isotopes of most commonly-used elements.
-
 :name: stable-isotopes
 
 | Element | Isotope         | %   |
-<<<<<<< HEAD
-
-|---------|-----------------|--------|
-
-| H       | $\ce{^1 H}$  | $99.985$ |
-
-| H       | $\ce{^2 H}$  | $0.015$  |
-
-| C       | $\ce{^{12} C}$ | $98.9$   |
-
-| C       | $\ce{^{13} C}$ | $1.1$    |
-
-| N       | $\ce{^{14} N}$ | $99.63$  |
-
-| N       | $\ce{^{15} N}$ | $0.37$   |
-
-| O       | $\ce{^{16} O}$ | $99.762$ |
-
-| O       | $\ce{^{17} O}$ | $0.2$    |
-
-=======
 |---------|-----------------|--------|
 | H       | $\ce{^1 H}$  | $99.985$ |
 | H       | $\ce{^2 H}$  | $0.015$  |
@@ -339,7 +290,6 @@ Stable isotopes are especially useful for elements with large relative mass diff
 | N       | $\ce{^{15} N}$ | $0.37$   |
 | O       | $\ce{^{16} O}$ | $99.762$ |
 | O       | $\ce{^{17} O}$ | $0.2$    |
->>>>>>> 2676463f7ef2cf2d40dd2b7cf0484571b2c98f22
 
 ```
 
@@ -348,25 +298,17 @@ Stable isotopes are especially useful for elements with large relative mass diff
 Isotopic fractionation is the partitioning of isotopes during physical (evaporation, condensation, melting, crystallization, absorption, and desorption, diffusion), chemical, or biological processes. This partitioning is proportional to the mass difference between the isotopes. The processes can be either equilibrium reactions, in which the forward and backward reaction rates are equal for each isotope, or kinetic reactions, which are unidirectional and depend on the masses and vibrational energies of the isotopes.
 
 ```{dropdown} Example: Stable isotope fractionation of $\ce{H2O}$
-<<<<<<< HEAD
-
-
-During evaporation of $\ce{H2O}$ in a closed system, six isotope combinations of $\ce{H2O}$ are possible: $\ce{^1H2^{16}O}, \ce{^1H^2H^{16}O}, \ce{^2H2^{16}O}, \ce{^1H2^{18}O}, \ce{^1H^2H^{18}O}, \ce{^2H2^{18}O}$.
-
-
-As a result of these different stable isotope combinations, the molecular masses are $18$, $19$, $20$, $20$, $21$, and $22$ respectively. See the conceptualizations in the figure below.
-
-  
-=======
 
 During evaporation of $\ce{H2O}$ in a closed system, six isotope combinations of $\ce{H2O}$ are possible: $\ce{^1H2^{16}O}, \ce{^1H^2H^{16}O}, \ce{^2H2^{16}O}, \ce{^1H2^{18}O}, \ce{^1H^2H^{18}O}, \ce{^2H2^{18}O}$.
 
 As a result of these different stable isotope combinations, the molecular masses are $18$, $19$, $20$, $20$, $21$, and $22$ respectively. See the conceptualizations in the figure below.
 
->>>>>>> 2676463f7ef2cf2d40dd2b7cf0484571b2c98f22
+During evaporation of $\ce{H2O}$ in a closed system, six isotope combinations of $\ce{H2O}$ are possible: $\ce{^1H2^{16}O}, \ce{^1H^2H^{16}O}, \ce{^2H2^{16}O}, \ce{^1H2^{18}O}, \ce{^1H^2H^{18}O}, \ce{^2H2^{18}O}$.
+
+As a result of these different stable isotope combinations, the molecular masses are $18$, $19$, $20$, $20$, $21$, and $22$ respectively. See the conceptualizations in the figure below.
+
 
 ![# Water Isotopes Diagram - USGS](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/Fig%201.Isotopes.web_.jpg)
-
 
 ```
 
@@ -374,11 +316,8 @@ Why do stable isotopes fractionate? Isotopically lighter isotopes have higher ve
 
 
 ```{math}
-
 :label: kineticenergy
-
 \text{Kinetic Energy} = \frac{1}{2} mv^2
-
 ```
 
 Per Eqn. {eq}`kineticenergy`, isotopically lighter molecules with higher velocities and, therefore, a greater amount of kinetic energy. Consider the above example. Since the lighter molecules have greater velocities, they preferentially escape into the vapor phase, enriching the lighter isotopes ($\ce{^1H}$ and $\ce{^{16}O}$) relative to the liquid phase of water. In addition, atoms with greater mass form slightly stronger bonds, and the heavier isotope is generally enriched in the more condensed phase or larger molecule.
@@ -388,11 +327,8 @@ The partitioning of stable isotopes between two substances, $A$ and $B$, is desc
 
 
 ```{math}
-
 :label: alpha
-
 \alpha = \frac{R_A}{R_B}
-
 ```
 
 where $R$ is the ratio of heavy to light isotope abundance (e.g., $\ce{^2H}/\ce{^1H}$, $\ce{^{18}O}/\ce{^{16}O}$), generally, the isotope abundance ratio does not significantly vary in the environment, so the fractionation factor, $\alpha$, generally has a value close to unity (1). However, this value can be precisely measured and reported with 4-5 decimal place precision. The fractionation factor depends on the temperature and can be determined experimentally or from spectroscopic data.
@@ -408,7 +344,6 @@ We can calculate $\alpha$ as
 
 $$\alpha = \frac{\ce{^{18}O}/\ce{^{16}O}_{\text{(liquid)}}}{\ce{^{18}O}/\ce{^{16}O}_{\text{(vapor)}}}
 $$
-
  
 Since $\ce{^{16}O}$ is enriched in the vapor phase relative to the liquid,
 
@@ -418,14 +353,11 @@ $$
 
 Conversely, $\ce{^{18}O}$ is enriched in the liquid relative to the vapor,
 
-
 $$
 [\ce{^{18}O}]_{\text{liquid}} > [\ce{^{18}O}]_{\text{vapor}}
 $$
 
-
 Therefore, the fractionation factor is greater than 1. As the temperature increases, the fractionation factor decreases and approaches 1 at infinite temperature.
-
 
 ```
 
@@ -436,11 +368,8 @@ In {numref}`oxygen-fractionation`, isotope fractionation of $\ce{O}$ as a functi
 ```{figure} https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/content-feature/paleoclimatology_oxygenbalance/images/oxygen_schematic.jpg?w=600&h=326&fit=crop&crop=faces%2Cfocalpoint
 
 ---
-
 name: oxygen-fractionation
-
 figclass: margin-caption
-
 ---
 
 Water vapor gradually loses $\ce{^{18}O}$ as it travels from the equator to the poles. Because water molecules with heavy $\ce{^{18}O}$ isotopes in them condense more quickly than normal water molecules, the air becomes progressively depleted in $\ce{^{18}O}$ as it travels to high latitudes and becomes colder and drier. The snow that forms most glacial ice is also depleted in $\ce{^{18}O}$. Image source: [Paleoclimatology: The Oxygen Balance](https://science.nasa.gov/earth/earth-observatory/paleoclimatology-the-oxygen-balance/)
@@ -458,81 +387,51 @@ Since isotopic variations between samples are minimal, we express isotopic ratio
 
 
 ```{math}
-
 :label: delta
-
 \delta = \left(\frac{R_\text{Sample}}{R_\text{Standard}} - 1\right) \times 1000
-
 ```
 
 Where the isotopic ratio, $R$, has been defined in the previous section. Note that the ratio is multiplied by a thousand and is expressed in "parts per thousand" or permille or permil or the symbol, ‰. As seen in Eqn. {eq}`delta`, $R_\text{Standard}$ is required for the element of interest. Standards for the most common elements of interest have been adopted worldwide for research purposes and shown in {numref}`isotopestandards`. Typically, V-SMOW (Vienna standard mean ocean water) and PDB (Pee Dee belemnite) are most commonly used for H, O, and C ratios.
-
-  
 
 ```{table} Isotope ratios and standards for most commonly-used elements in environmental geosciences.
 
 :name: isotopestandards
 
 | Isotope Ratio   | Standard | $R \times 10^{-5}$ |
-<<<<<<< HEAD
-
-|--------------|----------|----------: |
-
-| $\ce{^2 H}$/$\ce{^1 H}$   | V-SMOW   | $15.575$ |
-
-| $\ce{^{13} C}$/$\ce{^{12} C}$ | PDB      | $1123.75$   |
-
-| $\ce{^{18} O}$/$\ce{^{16} O}$ | V-SMOW   | $200.52$    |
-
-| $\ce{^{18} O}$/$\ce{^{16} O}$ | PDB      | $206.72$   |
-
-| $\ce{^{15} N}$/$\ce{^{14} N}$ | NBS-14   | $367.6 $   |
-
-=======
 |--------------|----------|----------: |
 | $\ce{^2 H}$/$\ce{^1 H}$   | V-SMOW   | $15.575$ |
 | $\ce{^{13} C}$/$\ce{^{12} C}$ | PDB      | $1123.75$   |
 | $\ce{^{18} O}$/$\ce{^{16} O}$ | V-SMOW   | $200.52$    |
 | $\ce{^{18} O}$/$\ce{^{16} O}$ | PDB      | $206.72$   |
 | $\ce{^{15} N}$/$\ce{^{14} N}$ | NBS-14   | $367.6 $   |
->>>>>>> 2676463f7ef2cf2d40dd2b7cf0484571b2c98f22
 | $\ce{^{34} S}$/$\ce{^{32} S}$ | CDT      | $4499.4$   |
 
 ```
-
 
 When $\delta$ values are negative, $R_\text{Sample} < R_\text{Standard}$ in Eqn. {eq}`delta`, therefore, the sample is considered depleted compared with the standard. Similarly, when $\delta$ values are positive, $R_\text{Sample} > R_\text{Standard}$; therefore, the sample is considered to be enriched compared to the standard.
 
 
 ```{dropdown} Example: $\delta$ notation
 
-
 A rainwater sample collected in Boston, Massachusetts, has an $\ce{^{18}O}$/$\ce{^{16}O}$ ratio of $0.0019750$. Calculate $\delta$ for this rainwater sample.
 
 From {numref}`isotopestandards`, we can read the isotopic ratio of $\ce{^{18} O}$/$\ce{^{16} O}$ in V-SMOW to be $0.0020052$. Substitute values in Eqn. {eq}`delta` as follows:
 
-  
 
 $$\begin{align}
-<<<<<<< HEAD
 
 \delta &=  \left(\frac{\ce{^{18}O}/\ce{^{16}O}_\text{Sample}}{\ce{^{18}O}/\ce{^{16}O}_\text{Standard}} - 1\right) \times 1000\\ &=\left(\frac{0.0019750}{0.0020052} - 1\right) \times 1000 = \pu{-15.1 ‰}
 
 \end{align}$$
 
-  
 
 Since this final value (in ‰) is negative, the sample is isotopically lighter than the standard.
 
-=======
 \delta &=  \left(\frac{\ce{^{18}O}/\ce{^{16}O}_\text{Sample}}{\ce{^{18}O}/\ce{^{16}O}_\text{Standard}} - 1\right) \times 1000\\ &=\left(\frac{0.0019750}{0.0020052} - 1\right) \times 1000 = \pu{-15.1 ‰}
 \end{align}$$
 
-  
-
 Since this final value (in ‰) is negative, the sample is isotopically lighter than the standard.
 
->>>>>>> 2676463f7ef2cf2d40dd2b7cf0484571b2c98f22
 ```
 
 
@@ -554,11 +453,7 @@ The diverse living organisms, from microbes to large plants and animals, are int
 
 ```{admonition} The Role of Organisms in Biogeochemistry
 
-  
-
 Read the following article: [Wolves modulate soil nutrient heterogeneity and foliar nitrogen by configuring the distribution of ungulate carcasses - Bump - 2009 - Ecology](https://doi.org/10.1890/09-0292.1)
-
-  
 
 Consider the following questions:
 
