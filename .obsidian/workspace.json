@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "61Biogeochemistry.md",
+                "file": "62BiogeochemicalCycles.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "61Biogeochemistry"
+              "title": "62BiogeochemicalCycles"
             }
           }
         ],
@@ -245,8 +245,26 @@
   },
   "active": "8e09496295981019",
   "lastOpenFiles": [
-    "41EnergyBudget.md",
     "61Biogeochemistry.md",
+    "313czs/313czs",
+    "313czs/_build/site/public/77aa943656dfc727a41be612ff370116.png",
+    "313czs/_build/site/public/7b444bb873337e3c2a0ce91101a7e42b.jpeg",
+    "313czs/_build/site/public/7HumansCZ-985b752fc3b44e6cf2a77df2bf5bd023.md",
+    "313czs/_build/site/public/81e1d7972858c7033ec1c09ab97f278c.jpeg",
+    "313czs/_build/site/public/81LiteratureReviews-c7bc94c1a175e0bba41c6379fc192dc8.md",
+    "313czs/_build/site/public/82ResearchPapers-7d96be229b84996ac18e7d0b5432bdab.md",
+    "313czs/_build/site/public/8Appendices-25d54115c3649e8a94cfd39b80e20888.md",
+    "313czs/_build/site/public/91papers-8fcb198c2b3261734333492eb863ffd6.md",
+    "313czs/_build/site/public/967d70a2d9b89689e2288fab76795391.png",
+    "313czs/_build/site/public/961ef12605c5a0787f63c76ac9c97431.jpeg",
+    "313czs/_build/site/public/aa161f5d684fc35116ae38224f79b368.jpeg",
+    "313czs/_build/site/public/b045589318f3de40435de6936d8054e9.jpeg",
+    "313czs/_build/site/public/ae22ecf9112ea44fdfe56faa9d6f6dc6.jpeg",
+    "313czs/_build/site/public/b2ad988fe2a6de2e322e02b8e41b76b9.jpeg",
+    "313czs/_build/site/public/b8276d2b4807382b8beb60ad2cd754ae.png",
+    "313czs/_build/site/public/index-a263151602f59fdaa519a689c5195693.md",
+    "313czs/_build/site/public/index-cf5d11bc395ffcf84dfd10f035df9be9.md",
+    "41EnergyBudget.md",
     "51WaterBalanceTree.md",
     "42CarbonBudget.md",
     "32LandformsRemoteSensing.md",
@@ -263,33 +281,14 @@
     "313czs/21BasicToolsAnalysis.md",
     "313czs/22CZSFieldMethods.md",
     "313czs/2CZSMethods.md",
-    "313czs/31Geomorphology.md",
-    "313czs/32LandformsRemoteSensing.md",
-    "313czs/3CZArchitectureEvolution.md",
-    "313czs/41EnergyBudget.md",
-    "313czs/42CarbonBudget.md",
-    "313czs/4LandAtmosphere.md",
-    "313czs/51WaterBalanceTree.md",
-    "313czs/52WaterBalanceImpacts.md",
     "313czs/_build/templates/site/myst/book-theme/node_modules/@remix-run/web-stream/src/desktop.ini",
     "313czs/_build/templates/site/myst/book-theme/node_modules/@remix-run/web-form-data/src/desktop.ini",
     "313czs/_build/desktop.ini",
     "313czs/_site/site.yml",
     "313czs/_site",
-    "313czs/assets/watershed_map_conus.png",
-    "313czs/assets/water-cycle-science.jpeg",
-    "313czs/assets/original.png",
-    "313czs/assets/SoilCritZone.png",
-    "313czs/assets/Rassmussen_EEMT.png",
-    "313czs/assets/oki-hydro-cycle.png",
-    "313czs/assets/nph16757-fig-0001-m.jpg",
-    "313czs/assets/idw7.png",
-    "313czs/assets/idw6.png",
-    "313czs/assets/idw5.png",
     "313czs/assets",
     "313czs/references.bib",
     "313czs/myst.yml",
-    "313czs/media/images/favicon.ico",
-    "313czs/media/videos/reusable.mp4"
+    "313czs/media/images/favicon.ico"
   ]
 }
