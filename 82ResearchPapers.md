@@ -62,7 +62,20 @@ Each section in the paper will be graded as per the rubric shown below.
 
 # Research Presentation
 
-The research presentation should be in the format of an oral presentation of your research project as you explain the main points to a broader nonscientific audience. You can use any platform for this presentation. Use photos, maps, and any other relevant information. Total length should be 5 minutes (about 5-7 slides).
+The research presentation should be in the format of an oral presentation of your research project as you explain the main points to a broader nonscientific audience. You can use any platform for this presentation. Use photos, maps, and any other relevant information. Total length should be 5 minutes (about 5-7 slides).  For example, you can format your slides this way:
+1. Slide 1: [Hook Title: e.g., Why Pollen is a Sign of Climate Change], One high-resolution, striking image related to the problem. **Text:** Your Name | Department | University.  Start with a "painless" statistic or a story. "In the last decade, we've pollen related allergies have increased X%..."
+2. Slide 2: [The Problem: e.g., Warming temperatures are causing plant overgrowth]  A simple "Current State vs. Ideal State" comparison chart. **Text:** 1–2 sentences max on the specific research gap you are filling. ** Explain the tension. Why hasn't this been solved yet? What is the "villain" of your story?
+3. Slide 3: [The Method: e.g., We Simulated Pollen Release Using X Treatment] A **flowchart** with icons. Use pictures and process flowcharts. Keep it high-level. Don't list every chemical; explain the _logic_ of how you tested your hypothesis.
+4. Slide 4: [The Finding: e.g., Treatment X Increases Pollen by 40%] One large, clean bar graph or line chart. Use a bright color (like Orange) for your result and a neutral color (Grey) for the control group. "Primary Finding: Significant increase in [Variable] observed."  This is your climax. Walk the audience through the graph: "As you can see here, the trend shifts dramatically when we..."
+5. Slide 5: [The Impact: e.g., This Study Can ...]  An image of the real-world application or a "Future Outlook" map. Two bullet points on broader implications. Bring it back to the big picture. Why does this matter for the field, the economy, or the environment?
+6. Slide 6: [Conclusion] "Thank you! Questions?" End on a strong, declarative sentence. Do not say "That's it." Say "I look forward to discussing how we can implement these findings."
+
+Other tips:
+- **The 10-Point Rule:** Never use a font size smaller than 24pt for body text and 36pt for titles. If it doesn't fit, you have too many words.
+- **No Transitions:** In a 5-minute talk, a lagging "Fade" or "Push" animation can eat up 10 precious seconds of your life. Keep it "None."
+- **The "Squint Test":** Squint at your slides from 5 feet away. If you can't tell what the main point is, the slide is too cluttered.
+
+Read [Naegle's paper](https://doi.org/10.1371/journal.pcbi.1009554) while considering how to prepare your presentation.
 
 ## Grading Rubric 
 

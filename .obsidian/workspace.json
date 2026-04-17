@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "62BiogeochemicalCycles.md",
+                "file": "82ResearchPapers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "62BiogeochemicalCycles"
+              "title": "82ResearchPapers"
             }
           }
         ],
@@ -245,6 +245,7 @@
   },
   "active": "8e09496295981019",
   "lastOpenFiles": [
+    "62BiogeochemicalCycles.md",
     "61Biogeochemistry.md",
     "313czs/313czs",
     "313czs/_build/site/public/77aa943656dfc727a41be612ff370116.png",
